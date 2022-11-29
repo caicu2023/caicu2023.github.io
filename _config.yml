@@ -6,19 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Alpha
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Alpha theme by HTML5 UP.
-baseurl: "/alpha-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+title: CAICU 2023
+email: caicu.uy@gmail.com
+description: Site for the CAICU 2023 conference.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://caicu2023.gitlab.io" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url:
 font-awesome-icon-logo:
 
 # Social settings
-github_username: andrewbanchich
-twitter_username: andrewbanchich
+github_username: caicu2023
+twitter_username: caicu
 facebook_URL:
 instagram_username:
 
