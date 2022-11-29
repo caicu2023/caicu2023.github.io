@@ -9,7 +9,7 @@
 title: CAICU 2023
 email: caicu.uy@gmail.com
 description: Site for the CAICU 2023 conference.
-baseurl: "/" # the subpath of your site, e.g. /blog
+# baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://caicu2023.gitlab.io" # the base hostname & protocol for your site
 
 # Logo settings
