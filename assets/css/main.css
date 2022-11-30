@@ -1,5 +1,7 @@
-@import url("font-awesome.min.css");
+/*@import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+*/
+@import url('https://fonts.cdnfonts.com/css/montserrat');
 
 /*
 	Alpha by HTML5 UP
@@ -2342,22 +2344,22 @@
 			}
 
 			.icon.major.accent2 {
-				background: #e89980;
+				background: #61beb3;
 				color: #ffffff;
 			}
 
 			.icon.major.accent3 {
-				background: #7fcdb8;
+				background: #61beb3;
 				color: #ffffff;
 			}
 
 			.icon.major.accent4 {
-				background: #90b0ba;
+				background: #9388c0;
 				color: #ffffff;
 			}
 
 			.icon.major.accent5 {
-				background: #e5cb95;
+				background: #9388c0;
 				color: #ffffff;
 			}
 
@@ -2798,7 +2800,7 @@
 	}
 
 	#header {
-		background: #444;
+		background: #1f244a;
 		color: #bbb;
 		cursor: default;
 		height: 3.25em;
@@ -3170,7 +3172,7 @@
 /* CTA */
 
 	#cta {
-		background: #e89980;
+		background: #61beb3;
 		color: #f9e5df;
 		padding: 3.5em 0 4em 0;
 		text-align: center;

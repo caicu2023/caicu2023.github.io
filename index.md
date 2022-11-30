@@ -16,10 +16,11 @@ title: Home
 			</ul> 
 		</p>
 	</header>
-	<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
+	<!-- <span class="image featured"><img src="images/pic01.jpg" alt="" /></span> -->
 </section>
 
 <section class="box special features">
+	<h2> Ejes temáticos</h2>	
 	<div class="features-row">
 		<section>
 			<span class="icon major fa-bolt accent2"></span>
