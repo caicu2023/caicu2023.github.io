@@ -8,7 +8,8 @@
 # Site settings
 title: CAICU 2023
 email: caicu.uy@gmail.com
-description: Site for the CAICU 2023 conference.
+description: 1er Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
+subdescription: Montevideo - Septiembre 2023
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://caicu2023.github.io" # the base hostname & protocol for your site
 
@@ -18,9 +19,9 @@ font-awesome-icon-logo:
 
 # Social settings
 github_username: caicu2023
-twitter_username: caicu
-facebook_URL:
-instagram_username:
+twitter_username: caicu.uy
+facebook_URL: caicu.uy
+instagram_username: caicu.uy
 
 # Build settings
 markdown: kramdown
