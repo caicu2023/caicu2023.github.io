@@ -19,9 +19,11 @@ font-awesome-icon-logo:
 
 # Social settings
 github_username: caicu2023
-twitter_username: caicu.uy
-facebook_URL: caicu.uy
-instagram_username: caicu.uy
+twitter_username: caicu_uy
+facebook_URL: caicu_uy
+instagram_username: caicu_uy
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+
