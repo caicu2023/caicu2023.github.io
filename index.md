@@ -16,10 +16,10 @@ section.box.special p {
 
 </style>
 
-<section class="box special">
+<section class="box special" id="col_angosta">
 	<header class="major">
 		<h2> Bajo la lupa</h2>
-		<p class="col_angosta">El carnaval es una de las fiestas populares de mayor importancia en el Uruguay. Las características del fenómeno, tan diverso en su esencia y sus formas, habilitan una multiplicidad de enfoques disciplinares e interdisciplinares para su estudio desde la academia. El CAICU tiene como objetivo generar un espacio de intercambio y encuentro entre investigadores e investigadoras de diferentes disciplinas que estudian las múltiples aristas del carnaval uruguayo, y fundamentalmente promover la generación de conocimiento académico interdisciplinario acerca del tema. La conferencia está dirigida a investigadores con diferentes grados de avance en su formación académica y a personas que participan del carnaval uruguayo en diferentes roles.
+		<p>El carnaval es una de las fiestas populares de mayor importancia en el Uruguay. Las características del fenómeno, tan diverso en su esencia y sus formas, habilitan una multiplicidad de enfoques disciplinares e interdisciplinares para su estudio desde la academia. El CAICU tiene como objetivo generar un espacio de intercambio y encuentro entre investigadores e investigadoras de diferentes disciplinas que estudian las múltiples aristas del carnaval uruguayo, y fundamentalmente promover la generación de conocimiento académico interdisciplinario acerca del tema. La conferencia está dirigida a investigadores con diferentes grados de avance en su formación académica y a personas que participan del carnaval uruguayo en diferentes roles.
 		</p>
 	</header>
 	<!-- <span class="image featured"><img src="images/pic01.jpg" alt="" /></span> -->
@@ -40,29 +40,30 @@ section.box.special p {
 <section class="box special features">
 	<h2> Ejes temáticos</h2>	
 	<div class="features-row">
-		<section>
+		<section><a href="/sobre-el-congreso#ejes-tematicos">
 			<!-- <span class="icon major fa-bolt accent2"></span> -->
 			<img class="logo_apoyo" src="images/symb/a_ama.png" alt="a_CAICU">
-			<h3>Arte y carnaval</h3>
+			<h4>Arte y carnaval</h4>
 			<!-- <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p> -->
-		</section>
-		<section>
+		</a></section>
+		<section><a href="/sobre-el-congreso#ejes-tematicos">
 			<img class="logo_apoyo" src="images/symb/r_ver.png" alt="r_CAICU">
-			<h3>El carnaval como práctica social</h3>
+			<h4>El carnaval como práctica social</h4>
 			<!-- <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p> -->
-		</section>
-		<section>
+		</a></section>
+		<section><a href="/sobre-el-congreso#ejes-tematicos">
 			<img class="logo_apoyo" src="images/symb/esq_azu.png" alt="e_CAICU">
-			<h3>Diferentes formas de organización del carnaval</h3>
+			<h4>Diferentes formas de organización del carnaval</h4>
 			<!-- <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p> -->
-		</section>
-		<section>
+		</a></section>
+		<section><a href="/sobre-el-congreso#ejes-tematicos">
 			<img class="logo_apoyo" src="images/symb/u_nar.png" alt="u_CAICU">
-			<h3>Cambios y permanencias en el carnaval</h3>
+			<h4>Cambios y permanencias en el carnaval</h4>
 			<!-- <p></p> -->
-		</section>
+		</a></section>
 	</div>
-	<p> <a href="/ejes-tematicos" class="button alt">Más información</a> </p>
+	<p></p>
+	<p> <a href="/sobre-el-congreso#ejes-tematicos" class="button alt">Más información</a> </p>
 </section>
 
 <!-- logos de apoyos institucionales -->
