@@ -1,6 +1,6 @@
-/*@import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
-*/
+@import url("font-awesome.min.css");
+/* @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic"); */
+
 
 @import url('https://fonts.cdnfonts.com/css/montserrat');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
@@ -1985,10 +1985,10 @@
 
 		header.major p {
 			display: inline-block;
-			border-top: solid 2px #e5e5e5;
-			color: #777;
-			margin: 1.5em 0 0 0;
-			padding: 1.5em 0 0 0;
+			/* border-top: solid 2px #e5e5e5;
+			color: #777; */
+			margin: 0.5em 0 0 0;
+			padding: 0.5em 0 0 0;
 			font-style: normal;
 		}
 
@@ -2194,7 +2194,7 @@
 		border-radius: 6px;
 		box-shadow: 0 2px 0 0 #e5e5e5;
 		margin: 0 0 2em 0;
-		padding: 3em;
+		padding: 1em;
 	}
 
 		.box > :last-child {
@@ -3033,12 +3033,12 @@
 
 	#banner {
 		background-attachment: scroll,							fixed;
-		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-color: var(--rojo_caicu);
+		/* background-image: url("images/overlay.png"), url("../../images/banner.jpg"); */
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
-		color: #fff;
+		color: var(--blanco_caicu);
 		padding: 12em 0 20em 0;
 		text-align: center;
 	}
@@ -3763,3 +3763,49 @@
 			}
 
 	}
+
+
+	/* Style defined for CAICU */
+
+	:root {
+		--negro_caicu: #1A1B1D;
+		--rojo_caicu: #E94E1C;
+		--azul_caicu: #477EC0;
+		--verde_caicu: #55A932;
+		--amarillo_caicu: #F9DA00;
+		--rosado_caicu: #F4A6A0;
+		--blanco_caicu: #ECE9C3;
+	  }
+	  
+
+	#logo_header {
+		/* background-image: url("/images/logo/caicu_cre.png"); */
+		height: 50px;
+		width: auto;
+		/* background-repeat: no-repeat; */
+	  }
+
+	#logo_banner {
+		width: 40%;
+		height: auto;
+	  }
+
+	.logo_apoyo {
+		width: 20%;
+		height: auto;
+	}
+
+	
+	.col_angosta {
+	width: 60%;
+	height: auto;
+	}
+
+	.bullet-list-container {
+		width: 60%;
+		margin: 0 auto; /* center the container */
+		text-align: left;
+		list-style-position: inside; /* align the bullet points to the left of the text */
+	}
+	
+	
