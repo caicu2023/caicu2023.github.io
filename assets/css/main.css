@@ -3805,14 +3805,15 @@
 
 	/* centered box */
 	.box #col_angosta {
-		width: 50%;
+		width: 60%;
 		height: auto;
 		margin: 0 auto;
+		/* float:left */
 	}
 
 	.bullet-list-container {
-		width: 60%;
-		margin: 0 auto; /* center the container */
+		/* width: 60%; */
+		/* margin: 0 auto; center the container */
 		text-align: left;
 		list-style-position: inside; /* align the bullet points to the left of the text */
 	}
