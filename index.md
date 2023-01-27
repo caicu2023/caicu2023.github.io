@@ -25,7 +25,7 @@ section.box.special p {
 	<!-- <span class="image featured"><img src="images/pic01.jpg" alt="" /></span> -->
 	<header class="major">
 		<h2>Fechas importantes</h2>
-		<div class="bullet-list-container">
+		<div class="bullet-list-container" id="bullets-fechas">
 			 <ul>
 			  <li>10 de Diciembre 2022 - Apertura del llamado a artículos</li>
 			  <li>10 de Mayo de 2023 - Cierre de convocatoria a presentación de artículos</li>

@@ -1980,7 +1980,7 @@
 	}
 
 		header.major h2 {
-			margin: 0;
+			margin: 0.5em;
 		}
 
 		header.major p {
@@ -3041,7 +3041,7 @@
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
 		color: var(--blanco_caicu);
-		padding: 12em 0 20em 0;
+		padding: 10em 0 18em 0;
 		text-align: center;
 	}
 
@@ -3176,7 +3176,7 @@
 /* CTA */
 
 	#cta {
-		background: var(--verde_caicu);
+		background: var(--azul_caicu);
 		color: var(--rojo_caicu);
 		padding: 3.5em 0 4em 0;
 		text-align: center;
@@ -3245,14 +3245,14 @@
 
 		/* Basic */
 
-			body, input, select, textarea {
+			body, input, select, textarea{
 				font-size: 13pt;
 			}
 
 		/* Banner */
 
 			#banner {
-				padding: 10em 0 18em 0;
+				padding: 7em 0 10em 0;
 			}
 
 	}
@@ -3532,7 +3532,7 @@
 
 		/* Basic */
 
-			body, input, select, textarea {
+			body, input, select, textarea, li {
 				font-size: 11pt;
 			}
 
@@ -3675,7 +3675,7 @@
 		/* Section/Article */
 
 			header.major {
-				padding: 0;
+				padding: 0.5em;
 			}
 
 		/* List */
@@ -3786,12 +3786,14 @@
 		width: auto;
 		/* background-repeat: no-repeat; */
 	  }
+	
 
 	#logo_banner {
-		width: 40%;
+		width: 100%;
 		height: auto;
 	  }
 
+	
 	.logo_apoyo {
 		width: 20%;
 		height: auto;
@@ -3803,13 +3805,34 @@
 	height: auto;
 	}
 
-	/* centered box */
+	/* narrow centered box*/
 	.box #col_angosta {
-		width: 60%;
-		height: auto;
-		margin: 0 auto;
-		/* float:left */
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-items: center;
+		width: 100%;
 	}
+
+
+	/* set width to 60% on larger screens */
+	@media (min-width: 768px) {
+		.box #col_angosta {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			align-items: center;
+			width: 60%;
+			margin: 0 auto;
+		}
+
+		#logo_banner {
+			width: 50%;
+			height: auto;
+			padding: 0;
+		  }
+		}
+	
 
 	.bullet-list-container {
 		/* width: 60%; */
@@ -3818,4 +3841,7 @@
 		list-style-position: inside; /* align the bullet points to the left of the text */
 	}
 	
+#bullets-fechas {
+	font-size: 16pt;
+}
 	
