@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: CAICU 2023
-email: caicu.uy@gmail.com
+title: CAICU 2023 | 1er Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
+email: contacto@caicu.uy
 description: 1er Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
 subdescription: 4 al 8 de Septiembre 2023 - Montevideo, Uruguay
 # baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://caicu2023.github.io" # the base hostname & protocol for your site
+url: "http://www.caicu.uy" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url:

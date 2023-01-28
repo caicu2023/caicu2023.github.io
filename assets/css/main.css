@@ -2970,6 +2970,7 @@
 				#header.alt .button:active {
 					background-color: rgba(255, 255, 255, 0.2);
 				}
+			
 
 	.dropotron {
 		background: #fff;
@@ -3769,7 +3770,9 @@
 
 	}
 
-
+/* ################################################ */
+/* ################################################ */
+/* ################################################ */
 	/* Style defined for CAICU */
 
 	:root {
@@ -3871,5 +3874,10 @@
 	
 #bullets-fechas {
 	font-size: 16pt;
+}
+
+
+#header.alt #logo_header {
+	display: none;
 }
 	
