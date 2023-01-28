@@ -1803,7 +1803,7 @@
 		color: #777;
 		font-family: "Montserrat", sans-serif;
 		font-size: 16pt;
-		font-weight: 300;
+		font-weight: 400;
 		line-height: 1.65em;
 		letter-spacing: -0.015em;
 	}
@@ -1837,7 +1837,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #646464;
-		font-weight: 300;
+		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 0.5em 0;
 	}
@@ -2002,7 +2002,7 @@
 		color: #646464;
 		display: block;
 		font-size: 0.9em;
-		font-weight: 300;
+		font-weight: 400;
 		margin: 0 0 1em 0;
 	}
 
@@ -2108,7 +2108,7 @@
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
-			font-weight: 300;
+			font-weight: 400;
 			padding-left: 2.55em;
 			padding-right: 0.75em;
 			position: relative;
@@ -3853,7 +3853,7 @@
 			flex-wrap: wrap;
 			justify-content: center;
 			align-items: center;
-			width: 60%;
+			width: 70%;
 			margin: 0 auto;
 		}
 
