@@ -18,7 +18,7 @@ section.box.special p {
 
 <section class="box special" id="col_angosta">
 	<header class="major">
-		<h2> Bajo la lupa</h2>
+		<h2> Título artístico</h2>
 		<p>El carnaval es una de las fiestas populares de mayor importancia en el Uruguay. Las características del fenómeno, tan diverso en su esencia y sus formas, habilitan una multiplicidad de enfoques disciplinares e interdisciplinares para su estudio desde la academia. El CAICU tiene como objetivo generar un espacio de intercambio y encuentro entre investigadores e investigadoras de diferentes disciplinas que estudian las múltiples aristas del carnaval uruguayo, y fundamentalmente promover la generación de conocimiento académico interdisciplinario acerca del tema. La conferencia está dirigida a investigadores con diferentes grados de avance en su formación académica y a personas que participan del carnaval uruguayo en diferentes roles.
 		</p>
 	</header>
@@ -27,9 +27,9 @@ section.box.special p {
 		<h2>Fechas importantes</h2>
 		<div class="bullet-list-container" id="bullets-fechas">
 			 <ul>
-			  <li>10 de Diciembre 2022 - Apertura del llamado a artículos</li>
-			  <li>10 de Mayo de 2023 - Cierre de convocatoria a presentación de artículos</li>
-			  <li>4 al 8 de Septiembre - 1er Congreso Académico Interdisciplinario sobre Carnaval Uruguayo</li>
+			  <li>Febrero 2023 - Apertura de convocatoria a presentación de trabajos</li>
+			  <li>10 de Mayo de 2023 - Cierre de convocatoria a presentación de trabajos</li>
+			  <li>5 al 8 de Septiembre - 1er Congreso Académico Interdisciplinario sobre Carnaval Uruguayo</li>
 			</ul> 
 		</div>
 	</header>
