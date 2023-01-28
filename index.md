@@ -72,6 +72,10 @@ section.box.special p {
 		<h2> Apoyos institucionales</h2>
 		<!-- <br /> -->
 		<p>
+			<img class="logo_apoyo" src="images/apoyos/logo_museo.png" alt="Logo Museo del Carnaval"> <!-- width="200" height="200"> -->
+			<img class="logo_apoyo" src="images/apoyos/logo_FArtes.png" alt="Logo Facultad de Artes"> <!-- width="200" height="200"> -->
+			<img class="logo_apoyo" src="images/apoyos/logo_FIng.PNG" alt="Logo Facultad de Ingenieria"> <!-- width="200" height="200"> -->
+			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
 			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
 			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
 			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->

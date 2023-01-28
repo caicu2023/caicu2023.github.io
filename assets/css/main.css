@@ -3036,12 +3036,13 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: var(--rojo_caicu);
-		/* background-image: url("images/overlay.png"), url("../../images/banner.jpg"); */
+		background-image: url("images/overlay.png"), url("/images/banner_caicu.png");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
 		color: var(--blanco_caicu);
-		padding: 10em 0 18em 0;
+		padding: 20em 0 28em 0;
+		/* padding: 10em 0 18em 0; */
 		text-align: center;
 	}
 
@@ -3177,7 +3178,7 @@
 
 	#cta {
 		background: var(--azul_caicu);
-		color: var(--rojo_caicu);
+		color: var(--blanco_caicu);
 		padding: 3.5em 0 4em 0;
 		text-align: center;
 	}
@@ -3252,7 +3253,8 @@
 		/* Banner */
 
 			#banner {
-				padding: 7em 0 10em 0;
+				/* padding: 7em 0 10em 0; */
+				padding: 20em 0 22em 0;
 			}
 
 	}
@@ -3749,7 +3751,8 @@
 		/* Banner */
 
 			#banner {
-				padding: 5em 1em 4em 1em;
+				/* padding: 5em 1em 4em 1em; */
+				padding: 5em 1em 12em 1em;
 			}
 
 		/* Main */
@@ -3776,16 +3779,41 @@
 		--verde_caicu: #55A932;
 		--amarillo_caicu: #F9DA00;
 		--rosado_caicu: #F4A6A0;
-		--blanco_caicu: #ECE9C3;
+		--blanco_caicu: #F5F1E9;
+		--crema_caicu: #ECE9C3;
 	  }
 	  
 
 	#logo_header {
 		/* background-image: url("/images/logo/caicu_cre.png"); */
+		/* display: flex;
+		align-items: center; */
+		display: inline;
+		vertical-align: middle;
+		justify-content: center;
 		height: 50px;
 		width: auto;
+		/* margin: 0.25em; */
+		/* margin: 0 auto; */
 		/* background-repeat: no-repeat; */
 	  }
+
+	/* .logo-header {
+		background-image: url('/images/logo/caicu_cre.png');
+		background-repeat: no-repeat;
+		height: 50px;
+		width: auto;
+		display: inline-block;
+		position: absolute;
+		top: 10px;
+		left: 10px;
+		background-size: contain;
+	} */
+
+.logo-header::after {
+    display: none;
+}
+	
 	
 
 	#logo_banner {
