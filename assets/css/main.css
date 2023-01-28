@@ -2431,8 +2431,9 @@
 		}
 
 			ul.alt li {
-				border-top: solid 1px #e5e5e5;
-				padding: 0.5em 0;
+				/* border-top: solid 1px #e5e5e5; */
+				/* padding: 0.5em 0; */
+				padding: 0.3em 0;
 			}
 
 				ul.alt li:first-child {
@@ -3828,6 +3829,7 @@
 	.logo_apoyo {
 		width: 20%;
 		height: auto;
+		padding: 1em;
 	}
 
 	
@@ -3874,7 +3876,11 @@
 	
 #bullets-fechas {
 	font-size: 16pt;
+	/* padding: 0.3em 0; */
 }
+/* #bullet-fechas ul li {
+	padding: 1em 0;
+} */
 
 
 #header.alt #logo_header {
@@ -3888,4 +3894,8 @@
 
 #header .nav-button:hover {
 	background-color: rgba(153, 153, 153, 0.25);
+}
+
+.header-organizadores {
+	font-weight: 500;
 }
