@@ -3838,6 +3838,11 @@
 		height: auto;
 		padding: 1em;
 	}
+
+	#header_apoyan {
+		margin: 1em 0 -1em 0;
+	}
+
 	.eje_tematico img {
 		width: 100%;
 		height: auto;
@@ -3938,6 +3943,19 @@
 #mc-embedded-subscribe-form {
 	float: none;
 }
+
+
+.input-group {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+  }
+
+  #mce-EMAIL {
+	flex-grow: 1;
+	margin-right: 10px;
+  }
+
 #cta p {
 	margin: 0;
 }

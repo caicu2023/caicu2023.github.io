@@ -73,12 +73,13 @@ section.box.special p {
 <!-- logos de apoyos institucionales -->
 <section class="box special">
 	<header class="major">
-		<h2> Organizan</h2>
+		<h2 id="header_apoyan"> Organizan</h2>
 		<p>
-			<img class="logo_apoyo" src="images/apoyos/logo_EI.png" alt="Logo EI"> <!-- width="200" height="200"> -->
-			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
+			<img class="logo_apoyos" src="images/apoyos/logos_organizan.png" alt="Logos de Organizadores del CAICU"> 
+			<!-- <img class="logo_apoyo" src="images/apoyos/logo_EI.png" alt="Logo EI"> width="200" height="200"> -->
+			<!-- <img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> width="200" height="200"> -->
 		</p>
-		<h2> Apoyan</h2>
+		<h2 id="header_apoyan"> Apoyan</h2>
 		<!-- <br /> -->
 		<p>
 			<img class="logo_apoyos" src="images/apoyos/logos_apoyos.png" alt="Logos de Apoyos al CAICU"> <!-- width="200" height="200"> -->
