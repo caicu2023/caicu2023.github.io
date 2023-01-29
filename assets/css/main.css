@@ -3913,3 +3913,21 @@
 .header-organizadores {
 	font-weight: 500;
 }
+
+
+/* style for mailchimp mailing list form */
+
+#mc_embed_signup {
+	clear:left;
+	font:14px "Montserrat", Helvetica,Arial,sans-serif;
+	width:600px;
+	text-align: center;
+	margin: 0 auto;
+}
+#mc_embed_signup input[type="email"], #mc_embed_signup input[type="submit"] {
+	display: block;
+	margin: 0 auto;
+}
+#mc-embedded-subscribe-form {
+	float: none;
+}
