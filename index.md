@@ -18,7 +18,7 @@ section.box.special p {
 
 <section class="box special" id="col_angosta">
 	<header class="major">
-		<h2> Título artístico</h2>
+		<h2> Pisan las tablas / al tablado / estudiando el tablado </h2>
 		<p>El carnaval es una de las fiestas populares de mayor importancia en el Uruguay. Las características del fenómeno, tan diverso en su esencia y sus formas, habilitan una multiplicidad de enfoques disciplinares e interdisciplinares para su estudio desde la academia.
 		<br />
 		<br />
@@ -81,14 +81,15 @@ section.box.special p {
 		<h2> Apoyan</h2>
 		<!-- <br /> -->
 		<p>
-			<img class="logo_apoyo" src="images/apoyos/logo_FArtes.png" alt="Logo Facultad de Artes"> <!-- width="200" height="200"> -->
-			<img class="logo_apoyo" src="images/apoyos/logo_FIng.PNG" alt="Logo Facultad de Ingenieria"> <!-- width="200" height="200"> -->
-			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
-			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
-			<img class="logo_apoyo" src="images/apoyos/logo_museo.jpg" alt="Logo Museo del Carnaval"> <!-- width="200" height="200"> -->
-			<img class="logo_apoyo" padding="3em" src="images/apoyos/logo_CISFI.png" alt="Logo CISFI"> <!-- width="200" height="200"> -->
-			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
-			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
+			<img class="logo_apoyos" src="images/apoyos/logos_apoyos.png" alt="Logos de Apoyos al CAICU"> <!-- width="200" height="200"> -->
+			<!-- <img class="logo_apoyo" src="images/apoyos/logo_FArtes.png" alt="Logo Facultad de Artes"> width="200" height="200"> -->
+			<!-- <img class="logo_apoyo" src="images/apoyos/logo_FIng.PNG" alt="Logo Facultad de Ingenieria"> width="200" height="200"> -->
+			<!-- <img class="logo_apoyo" src="images/apoyos/logo_FHCE.png" alt="Logo Facultad de Humanidades y Ciencias de la Educacion"> width="200" height="200"> -->
+			<!-- <img class="logo_apoyo" src="images/apoyos/logo_FIC.png" alt="Logo Facultad de Informacion y Comunicacion"> width="200" height="200"> -->
+			<!-- <img class="logo_apoyo" src="images/apoyos/logo_museo.jpg" alt="Logo Museo del Carnaval"> width="200" height="200"> -->
+			<!-- <img class="logo_apoyo" padding="3em" src="images/apoyos/logo_CISFI.png" alt="Logo CISFI"> width="200" height="200"> -->
+			<!-- <img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> width="200" height="200"> -->
+			<!-- <img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> width="200" height="200"> -->
 		</p>
 	</header>
 	<!-- <span class="image featured"><img src="images/pic01.jpg" alt="" /></span> -->

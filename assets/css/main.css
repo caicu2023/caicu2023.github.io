@@ -3832,6 +3832,12 @@
 		height: auto;
 		padding: 1em;
 	}
+	.logo_apoyos {
+		/* width: 20%; */
+		width: 100%;
+		height: auto;
+		padding: 1em;
+	}
 	.eje_tematico img {
 		width: 100%;
 		height: auto;
@@ -3920,14 +3926,30 @@
 #mc_embed_signup {
 	clear:left;
 	font:14px "Montserrat", Helvetica,Arial,sans-serif;
-	width:600px;
+	width:100%;
 	text-align: center;
 	margin: 0 auto;
 }
 #mc_embed_signup input[type="email"], #mc_embed_signup input[type="submit"] {
 	display: block;
-	margin: 0 auto;
+	margin: 0 0.5em;
+	padding: 0 1em;
 }
 #mc-embedded-subscribe-form {
 	float: none;
+}
+#cta p {
+	margin: 0;
+}
+#cta h3 {
+	margin: 1em 0 1em 0;
+}
+#cta ul {
+	margin: 2.5em 0 0 0;
+}
+#cta ul.icons {
+	font-size: 2em;
+}
+#cta form {
+	width: 35%;
 }
