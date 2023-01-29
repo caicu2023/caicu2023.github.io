@@ -3038,7 +3038,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: var(--rojo_caicu);
-		background-image: url("images/overlay.png"), url("/images/banner_caicu.png");
+		background-image: url("images/"), url("/images/banner_caicu2.png");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3256,7 +3256,8 @@
 
 			#banner {
 				/* padding: 7em 0 10em 0; */
-				padding: 20em 0 22em 0;
+				/* padding: 20em 0 22em 0; */
+				padding: 20em 0 30em 0;
 			}
 
 	}
@@ -3831,7 +3832,20 @@
 		height: auto;
 		padding: 1em;
 	}
+	.eje_tematico img {
+		width: 100%;
+		height: auto;
+		padding: 0;
+	}
 
+	#titulo_ejes {
+		margin: -1em 0 -1em 0;
+	}
+
+	.eje_tematico h4 {
+		font-size: 1.3em;
+		font-weight: 500;
+	}
 	
 	.col_angosta {
 	width: 60%;
@@ -3878,9 +3892,9 @@
 	font-size: 16pt;
 	/* padding: 0.3em 0; */
 }
-/* #bullet-fechas ul li {
-	padding: 1em 0;
-} */
+#bullets-fechas li {
+	padding: 0.3em 0;
+}
 
 
 #header.alt #logo_header {

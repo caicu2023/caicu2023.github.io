@@ -42,26 +42,26 @@ section.box.special p {
 
 
 <section class="box special features">
-	<h2> Ejes temáticos</h2>	
+	<h2 id="titulo_ejes"> Ejes temáticos</h2>	
 	<div class="features-row">
-		<section><a href="/sobre-el-congreso#ejes-tematicos">
+		<section class="eje_tematico"><a href="/sobre-el-congreso#ejes-tematicos">
 			<!-- <span class="icon major fa-bolt accent2"></span> -->
-			<img class="logo_apoyo" src="images/symb/a_ama.png" alt="a_CAICU">
+			<img src="images/symb/a_ama.png" alt="a_CAICU">
 			<h4>Arte y carnaval</h4>
 			<!-- <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p> -->
 		</a></section>
-		<section><a href="/sobre-el-congreso#ejes-tematicos">
-			<img class="logo_apoyo" src="images/symb/r_ver.png" alt="r_CAICU">
+		<section class="eje_tematico"><a href="/sobre-el-congreso#ejes-tematicos">
+			<img  src="images/symb/r_ver.png" alt="r_CAICU">
 			<h4>El carnaval como práctica social</h4>
 			<!-- <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p> -->
 		</a></section>
-		<section><a href="/sobre-el-congreso#ejes-tematicos">
-			<img class="logo_apoyo" src="images/symb/esq_azu.png" alt="e_CAICU">
+		<section class="eje_tematico"><a href="/sobre-el-congreso#ejes-tematicos">
+			<img src="images/symb/esq_azu.png" alt="e_CAICU">
 			<h4>Diferentes formas de organización del carnaval</h4>
 			<!-- <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p> -->
 		</a></section>
-		<section><a href="/sobre-el-congreso#ejes-tematicos">
-			<img class="logo_apoyo" src="images/symb/u_nar.png" alt="u_CAICU">
+		<section class="eje_tematico"><a href="/sobre-el-congreso#ejes-tematicos">
+			<img src="images/symb/u_nar.png" alt="u_CAICU">
 			<h4>Cambios y permanencias en el carnaval</h4>
 			<!-- <p></p> -->
 		</a></section>
@@ -75,18 +75,18 @@ section.box.special p {
 	<header class="major">
 		<h2> Organizan</h2>
 		<p>
-			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
+			<img class="logo_apoyo" src="images/apoyos/logo_EI.png" alt="Logo EI"> <!-- width="200" height="200"> -->
 			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
 		</p>
 		<h2> Apoyan</h2>
 		<!-- <br /> -->
 		<p>
-			<img class="logo_apoyo" src="images/apoyos/logo_museo.jpg" alt="Logo Museo del Carnaval"> <!-- width="200" height="200"> -->
 			<img class="logo_apoyo" src="images/apoyos/logo_FArtes.png" alt="Logo Facultad de Artes"> <!-- width="200" height="200"> -->
 			<img class="logo_apoyo" src="images/apoyos/logo_FIng.PNG" alt="Logo Facultad de Ingenieria"> <!-- width="200" height="200"> -->
 			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
 			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
-			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
+			<img class="logo_apoyo" src="images/apoyos/logo_museo.jpg" alt="Logo Museo del Carnaval"> <!-- width="200" height="200"> -->
+			<img class="logo_apoyo" padding="3em" src="images/apoyos/logo_CISFI.png" alt="Logo CISFI"> <!-- width="200" height="200"> -->
 			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
 			<img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> <!-- width="200" height="200"> -->
 		</p>
