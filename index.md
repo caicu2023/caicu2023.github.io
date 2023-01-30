@@ -67,8 +67,7 @@ section.box.special p {
 			<!-- <p></p> -->
 		</a></section>
 	</div>
-	<p></p>
-	<p> <a href="/sobre-el-congreso#ejes-tematicos" class="button alt">Más información</a> </p>
+	<a href="/sobre-el-congreso#ejes-tematicos" id="button_angosto" class="button alt">Más información</a>
 </section>
 
 <!-- logos de apoyos institucionales -->
