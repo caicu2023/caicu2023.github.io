@@ -2193,7 +2193,7 @@
 		background: #fff;
 		border-radius: 6px;
 		/* box-shadow: 0 2px 0 0 #e5e5e5; */
-		margin: 0 0 2em 0;
+		margin: 0 0 6em 0;
 		padding: 1em;
 	}
 
@@ -2272,9 +2272,9 @@
 		.box .image.featured {
 			border-radius: 0;
 			display: block;
-			margin: 3em 0 3em -3em;
+			/* margin: 3em 0 3em -3em; */
 			position: relative;
-			width: calc(100% + 6em);
+			/* width: calc(100% + 6em); */
 		}
 
 			.box .image.featured img {
@@ -2286,7 +2286,7 @@
 			.box .image.featured:first-child {
 				border-radius: 6px 6px 0 0;
 				margin-bottom: 3em;
-				margin-top: -3em;
+				/* margin-top: -3em; */
 			}
 
 				.box .image.featured:first-child img {
@@ -3043,7 +3043,8 @@
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
 		color: var(--blanco_caicu);
-		padding: 20em 0 28em 0;
+		padding: 20em 0 38em 0;
+		min-height: 100%;
 		/* padding: 10em 0 18em 0; */
 		text-align: center;
 	}
@@ -3778,12 +3779,20 @@
 	/* Style defined for CAICU */
 
 	:root {
-		--negro_caicu: #1A1B1D;
+		/* --negro_caicu: #1A1B1D;
 		--rojo_caicu: #E94E1C;
 		--azul_caicu: #477EC0;
 		--verde_caicu: #55A932;
 		--amarillo_caicu: #F9DA00;
 		--rosado_caicu: #F4A6A0;
+		--blanco_caicu: #F5F1E9;
+		--crema_caicu: #ECE9C3; */
+		--negro_caicu: #1A1B1D;
+		--rojo_caicu: #CB5628;
+		--azul_caicu: #4F76A6;
+		--verde_caicu: #68A844;
+		--amarillo_caicu: #DABB10;
+		--rosado_caicu: #C98D8E;
 		--blanco_caicu: #F5F1E9;
 		--crema_caicu: #ECE9C3;
 	  }
