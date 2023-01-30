@@ -18,7 +18,8 @@ section.box.special p {
 
 <section class="box special" id="col_angosta">
 	<header class="major">
-		<h2> Pisan las tablas / al tablado / estudiando el tablado </h2>
+		<!-- <h2> Pisan las tablas / al tablado / estudiando el tablado </h2> -->
+		<h2>Buscando entender la fiesta</h2>
 		<p>El carnaval es una de las fiestas populares de mayor importancia en el Uruguay. Las características del fenómeno, tan diverso en su esencia y sus formas, habilitan una multiplicidad de enfoques disciplinares e interdisciplinares para su estudio desde la academia.
 		<br />
 		<br />
