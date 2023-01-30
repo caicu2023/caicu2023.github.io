@@ -47,22 +47,22 @@ section.box.special p {
 	<div class="features-row">
 		<section class="eje_tematico"><a href="/sobre-el-congreso#ejes-tematicos">
 			<!-- <span class="icon major fa-bolt accent2"></span> -->
-			<img src="images/symb/a_ama.png" alt="a_CAICU">
+			<img src="images/symb/ejes_1.png" alt="Eje 1">
 			<h4>Arte y carnaval</h4>
 			<!-- <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p> -->
 		</a></section>
 		<section class="eje_tematico"><a href="/sobre-el-congreso#ejes-tematicos">
-			<img  src="images/symb/r_ver.png" alt="r_CAICU">
+			<img  src="images/symb/ejes_2.png" alt="Eje 2">
 			<h4>El carnaval como práctica social</h4>
 			<!-- <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p> -->
 		</a></section>
 		<section class="eje_tematico"><a href="/sobre-el-congreso#ejes-tematicos">
-			<img src="images/symb/esq_azu.png" alt="e_CAICU">
+			<img src="images/symb/ejes_3.png" alt="Eje 3">
 			<h4>Diferentes formas de organización del carnaval</h4>
 			<!-- <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p> -->
 		</a></section>
 		<section class="eje_tematico"><a href="/sobre-el-congreso#ejes-tematicos">
-			<img src="images/symb/u_nar.png" alt="u_CAICU">
+			<img src="images/symb/ejes_4.png" alt="Eje 4">
 			<h4>Cambios y permanencias en el carnaval</h4>
 			<!-- <p></p> -->
 		</a></section>
