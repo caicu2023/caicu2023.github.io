@@ -3038,7 +3038,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: var(--rojo_caicu);
-		background-image: url("images/"), url("/images/banner_caicu3.png");
+		background-image: url("images/"), url("/images/banner_caicu.png");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
