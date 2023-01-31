@@ -3814,6 +3814,10 @@
 		/* background-repeat: no-repeat; */
 	  }
 
+	#link_header {
+		border-bottom: none;
+	}
+
 	/* .logo-header {
 		background-image: url('/images/logo/caicu_cre.png');
 		background-repeat: no-repeat;
