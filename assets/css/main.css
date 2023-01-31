@@ -3753,7 +3753,8 @@
 
 					.box .image.featured:first-child {
 						margin-bottom: 3em;
-						margin-top: -3em;
+						/* margin-top: -3em; */
+						margin-top: 1em;
 					}
 
 					.box .image.featured:last-child {
