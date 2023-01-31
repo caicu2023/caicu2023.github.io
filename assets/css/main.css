@@ -3326,10 +3326,10 @@
 			}
 
 		/* Section/Article */
-
+/* 
 			header br {
 				display: none;
-			}
+			} */
 
 			header.major {
 				padding: 0 4em;
@@ -3788,14 +3788,6 @@
 	/* Style defined for CAICU */
 
 	:root {
-		/* --negro_caicu: #1A1B1D;
-		--rojo_caicu: #E94E1C;
-		--azul_caicu: #477EC0;
-		--verde_caicu: #55A932;
-		--amarillo_caicu: #F9DA00;
-		--rosado_caicu: #F4A6A0;
-		--blanco_caicu: #F5F1E9;
-		--crema_caicu: #ECE9C3; */
 		--negro_caicu: #1A1B1D;
 		--rojo_caicu: #CB5628;
 		--azul_caicu: #4F76A6;
