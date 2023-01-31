@@ -20,11 +20,11 @@ section.box.special p {
 	<header class="major">
 		<!-- <h2> Pisan las tablas / al tablado / estudiando el tablado </h2> -->
 		<h2>Buscando entender la fiesta</h2>
-		<p>El carnaval es una de las fiestas populares de mayor importancia en el Uruguay. Las características del fenómeno, tan diverso en su esencia y sus formas, habilitan una multiplicidad de enfoques disciplinares e interdisciplinares para su estudio desde la academia.
+		<p>El carnaval es una de las fiestas populares más importantes del Uruguay. Tanto a nivel artístico y creativo como en relación a la cantidad de personas y estructuras involucradas, su relevancia para la cultura y la sociedad uruguaya es innegable. Diverso en su esencia y sus formas, el carnaval uruguayo constituye un fenómeno complejo y diverso que admite una multiplicidad de enfoques disciplinares e interdisciplinares.
 		<br />
 		<br />
-		El CAICU tiene como objetivo generar un espacio de intercambio y encuentro entre investigadores e investigadoras de diferentes disciplinas que estudian las múltiples aristas del carnaval uruguayo, y fundamentalmente promover la generación de conocimiento académico interdisciplinario acerca del tema.
-		La conferencia está dirigida a investigadores con diferentes grados de avance en su formación académica y a personas que participan del carnaval uruguayo en diferentes roles.
+		El CAICU propone un espacio de intercambio y encuentro entre investigadores e investigadoras de diferentes disciplinas que estudian las múltiples aristas del carnaval uruguayo, con el objetivo de promover la generación de conocimiento académico interdisciplinario acerca del tema.
+		La conferencia está dirigida a investigadoras e investigadores en diferentes etapas de su formación académica de todos los servicios de la Udelar y otras instituciones educativas, así como  a personas interesadas en reflexionar acerca del carnaval uruguayo.
 		</p>
 	</header>
 	<!-- <span class="image featured"><img src="images/pic01.jpg" alt="" /></span> -->
