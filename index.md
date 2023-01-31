@@ -19,7 +19,7 @@ section.box.special p {
 <section class="box special" id="col_angosta">
 	<header class="major">
 		<!-- <h2> Pisan las tablas / al tablado / estudiando el tablado </h2> -->
-		<h2>Buscando entender la fiesta</h2>
+		<h2>Nuevas miradas</h2>
 		<p>El carnaval es una de las fiestas populares más importantes del Uruguay. Tanto a nivel artístico y creativo como en relación a la cantidad de personas y estructuras involucradas, su relevancia para la cultura y la sociedad uruguaya es innegable. Diverso en su esencia y sus formas, el carnaval uruguayo constituye un fenómeno complejo y diverso que admite una multiplicidad de enfoques disciplinares e interdisciplinares.
 		<br />
 		<br />
