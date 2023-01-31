@@ -74,14 +74,14 @@ section.box.special p {
 <section class="box special">
 	<header class="major">
 		<h2 id="header_apoyan"> Organizan</h2>
-		<p>
+		<!-- <p> -->
 			<img class="logo_apoyos" src="images/apoyos/logos_organizan.png" alt="Logos de Organizadores del CAICU"> 
 			<!-- <img class="logo_apoyo" src="images/apoyos/logo_EI.png" alt="Logo EI"> width="200" height="200"> -->
 			<!-- <img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> width="200" height="200"> -->
-		</p>
+		<!-- </p> -->
 		<h2 id="header_apoyan"> Apoyan</h2>
 		<!-- <br /> -->
-		<p>
+		<!-- <p> -->
 			<img class="logo_apoyos" src="images/apoyos/logos_apoyos.png" alt="Logos de Apoyos al CAICU"> <!-- width="200" height="200"> -->
 			<!-- <img class="logo_apoyo" src="images/apoyos/logo_FArtes.png" alt="Logo Facultad de Artes"> width="200" height="200"> -->
 			<!-- <img class="logo_apoyo" src="images/apoyos/logo_FIng.PNG" alt="Logo Facultad de Ingenieria"> width="200" height="200"> -->
@@ -91,7 +91,7 @@ section.box.special p {
 			<!-- <img class="logo_apoyo" padding="3em" src="images/apoyos/logo_CISFI.png" alt="Logo CISFI"> width="200" height="200"> -->
 			<!-- <img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> width="200" height="200"> -->
 			<!-- <img class="logo_apoyo" src="images/logo/logo_neg.png" alt="Logo CAICU"> width="200" height="200"> -->
-		</p>
+		<!-- </p> -->
 	</header>
 	<!-- <span class="image featured"><img src="images/pic01.jpg" alt="" /></span> -->
 </section>
