@@ -47,22 +47,22 @@ section.box.special p {
 	<div class="features-row">
 		<section class="eje_tematico"><a id="link_header" href="/sobre-el-congreso#ejes-tematicos">
 			<!-- <span class="icon major fa-bolt accent2"></span> -->
-			<img src="images/symb/ejes_1.png" alt="Eje 1">
+			<img src="images/symb/ejes_arte_y_carnaval.png" alt="Eje 1">
 			<h4>Arte y carnaval</h4>
 			<!-- <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p> -->
 		</a></section>
 		<section class="eje_tematico"><a id="link_header" href="/sobre-el-congreso#ejes-tematicos">
-			<img  src="images/symb/ejes_2.png" alt="Eje 2">
+			<img  src="images/symb/ejes_el_carnaval_como_practica_social.png" alt="Eje 2">
 			<h4>El carnaval como práctica social</h4>
 			<!-- <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p> -->
 		</a></section>
 		<section class="eje_tematico"><a id="link_header" href="/sobre-el-congreso#ejes-tematicos">
-			<img src="images/symb/ejes_3.png" alt="Eje 3">
+			<img src="images/symb/ejes_diferentes_formas_de_organizacion.png" alt="Eje 3">
 			<h4>Diferentes formas de organización del carnaval</h4>
 			<!-- <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p> -->
 		</a></section>
 		<section class="eje_tematico"><a id="link_header" href="/sobre-el-congreso#ejes-tematicos">
-			<img src="images/symb/ejes_4.png" alt="Eje 4">
+			<img src="images/symb/ejes_cambios_y_permanencias.png" alt="Eje 4">
 			<h4>Cambios y permanencias en el carnaval</h4>
 			<!-- <p></p> -->
 		</a></section>
