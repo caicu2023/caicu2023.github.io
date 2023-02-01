@@ -20,7 +20,7 @@ section.box.special p {
 	<header class="major">
 		<!-- <h2> Pisan las tablas / al tablado / estudiando el tablado </h2> -->
 		<h2>Entender la fiesta</h2>
-		<p>El carnaval es una de las fiestas populares más importantes del Uruguay. Tanto a nivel artístico y creativo como en relación a la cantidad de personas y estructuras involucradas, su relevancia para la cultura y la sociedad uruguaya es innegable. Diverso en su esencia y sus formas, el carnaval uruguayo constituye un fenómeno complejo y diverso que admite una multiplicidad de enfoques disciplinares e interdisciplinares.
+		<p>El carnaval es una de las fiestas populares más importantes del Uruguay. Tanto a nivel artístico y creativo como en relación a la cantidad de personas y estructuras involucradas, su relevancia para la cultura y la sociedad uruguaya es innegable. Diverso en su esencia y sus formas, el carnaval uruguayo constituye un fenómeno complejo y heterogéneo que admite una multiplicidad de enfoques disciplinares e interdisciplinares.
 		<br />
 		<br />
 		El CAICU propone un espacio de intercambio y encuentro entre investigadores e investigadoras de diferentes disciplinas que estudian las múltiples aristas del carnaval uruguayo con el objetivo de promover la generación de conocimiento académico interdisciplinario acerca del tema.
