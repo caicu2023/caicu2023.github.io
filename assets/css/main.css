@@ -2896,7 +2896,7 @@
 		#header input[type="button"],
 		#header .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #999;
+			box-shadow: inset 0 0 0 2px var(--blanco_caicu);
 			color: #fff;
 		}
 
