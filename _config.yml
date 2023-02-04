@@ -11,7 +11,7 @@ email: contacto@caicu.uy
 description: 1er Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
 subdescription: 4 al 8 de Septiembre 2023 - Montevideo, Uruguay
 # baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://www.caicu.uy" # the base hostname & protocol for your site
+url: "https://www.caicu.uy" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url:
@@ -20,7 +20,7 @@ font-awesome-icon-logo:
 # Social settings
 github_username: caicu2023
 twitter_username: caicu_uy
-facebook_URL: caicu_uy
+facebook_URL: caicu.uy
 instagram_username: caicu_uy
 
 # Build settings
