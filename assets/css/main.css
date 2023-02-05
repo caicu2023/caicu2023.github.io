@@ -4031,3 +4031,9 @@
 	font-size: 0.8em;
 	padding: 0.7em 0;
 }
+
+
+/* english banner */
+#banner.englishBanner {
+	background-image: url("images/"), url("/images/banner_caicu_eng.png");
+}
