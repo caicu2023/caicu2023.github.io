@@ -70,6 +70,50 @@ section.box.special p {
 	<a href="/sobre-el-congreso#ejes-tematicos" id="button_angosto" class="button alt">Más información</a>
 </section>
 
+
+<section class="box special">
+  <div class="row">
+    <div class="6u 12u(mobile)">
+      <div class="info-container">
+        <h2>Sede</h2>
+        <p>Edificio Polifuncional "José Luis Massera" / Facultad de Ingeniería <br> Universidad de la República <br><br> Av. Julio Herrera y Reissig 565 <br> Montevideo, Uruguay  </p>
+      </div>
+    </div>
+    <div class="6u 12u(mobile)">
+      <div class="map-container">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3271.5810061598067!2d-56.169064967645475!3d-34.91696291086869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x959f81a27950cb5b%3A0x2c3c43b4bd78578a!2sEdificio%20Polifuncional%20%22Jos%C3%A9%20Luis%20Massera%22%20(Aulario%20FIng))!5e0!3m2!1sen!2sfr!4v1679829113226!5m2!1sen!2sfr" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+  }
+  .map-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  @media screen and (max-width: 480px) {
+    .row {
+      flex-direction: column;
+    }
+  }
+</style>
+
+
+
 <!-- logos de apoyos institucionales -->
 <section class="box special">
 	<header class="major">
