@@ -33,7 +33,7 @@ section.box.special p {
 		<div class="bullet-list-container" id="bullets-fechas">
 			 <ul>
 			  <li>Febrero 2023 - Apertura de convocatoria a presentación de trabajos</li>
-			  <li><s>10</s> 22 de Mayo de 2023 - Cierre de convocatoria a presentación de trabajos</li>
+			  <li>22 de Mayo de 2023 - Cierre de convocatoria a presentación de trabajos (extensión)</li>
 			  <li>5 al 8 de Septiembre - 1er Congreso Académico Interdisciplinario sobre Carnaval Uruguayo</li>
 			</ul> 
 		</div>
