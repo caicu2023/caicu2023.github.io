@@ -27,6 +27,10 @@ section.box.special p {
 		La conferencia está dirigida a investigadoras e investigadores en diferentes etapas de su formación académica de todos los servicios de la Udelar y otras instituciones educativas, así como  a personas interesadas en reflexionar acerca del carnaval uruguayo.
 		</p>
 	</header>
+	<!-- <header class="major">
+		<h2><img width="5%" src="images/symb/ejes_arte_y_carnaval.png" alt="Eje 1">Programa del congreso</h2>
+		<h2>Inscripción al congreso</h2>
+	</header> -->
 	<!-- <span class="image featured"><img src="images/pic01.jpg" alt="" /></span> -->
 	<header class="major">
 		<h2>Fechas importantes</h2>
@@ -34,7 +38,7 @@ section.box.special p {
 			 <ul>
 			  <li>Febrero 2023 - Apertura de convocatoria a presentación de trabajos</li>
 			  <li>22 de Mayo de 2023 - Cierre de convocatoria a presentación de trabajos (extensión)</li>
-			  <li>5 al 8 de Septiembre - 1er Congreso Académico Interdisciplinario sobre Carnaval Uruguayo</li>
+			  <li><b>5 al 8 de Septiembre - 1er Congreso Académico Interdisciplinario sobre Carnaval Uruguayo</b></li>
 			</ul> 
 		</div>
 	</header>
