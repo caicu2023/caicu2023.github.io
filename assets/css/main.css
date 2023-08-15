@@ -1864,6 +1864,9 @@
 		line-height: 1.5em;
 		letter-spacing: 0;
 	}
+	h4 b {
+		font-weight: 700;
+	}
 
 	h5 {
 		font-size: 0.9em;
@@ -2559,6 +2562,9 @@
 
 		table b {
 			font-weight: 600;
+		}
+		table ul {
+			margin: 0 0 0 0;
 		}
 
 		table td {
