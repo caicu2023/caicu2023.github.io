@@ -1978,14 +1978,14 @@ body {
 /* Basic */
 
 body {
-	background: #f5f5f5;
+	background: var(--crema_caicu);
 }
 
 body,
 input,
 select,
 textarea {
-	color: #777;
+	color: var(--negroclaro_caicu);
 	font-family: "Montserrat", sans-serif;
 	font-size: 16pt;
 	font-weight: 400;
@@ -2009,7 +2009,7 @@ a:hover {
 
 strong,
 b {
-	color: #646464;
+	color: var(--negro_caicu);
 	font-weight: 400;
 }
 
@@ -2028,7 +2028,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #646464;
+	color: var(--negro_caicu);
 	font-weight: 400;
 	line-height: 1em;
 	margin: 0 0 0.5em 0;
@@ -2150,7 +2150,7 @@ article.special {
 }
 
 header p {
-	color: #999;
+	color: var(--negroclaro_caicu);
 	position: relative;
 	margin: 0 0 1.5em 0;
 	font-style: italic;
@@ -2393,12 +2393,13 @@ input[type="radio"]+label:before {
 
 .box {
 	/* var crema-caicu; */
-	background: var(--crema_caicu);
+	background: var(--blanco_caicu);
 	border-radius: 6px;
 	/* box-shadow: 0 2px 0 0 #e5e5e5; */
 	margin: 0 0 6em 0;
 	padding: 1em;
 }
+
 
 .box> :last-child {
 	margin-bottom: 0;
@@ -2470,6 +2471,11 @@ input[type="radio"]+label:before {
 
 .box.special {
 	text-align: center;
+	background: var(--crema_caicu);
+}
+
+.box.landing {
+	background: var(--crema_caicu);
 }
 
 .box .image.featured {
@@ -3194,7 +3200,7 @@ body.landing #page-wrapper {
 
 
 .dropotron {
-	background: #fff;
+	background: var(--blanco_caicu);
 	border-radius: 6px;
 	box-shadow: 0 2px 0 0 rgba(0, 0, 0, 0.065), inset 0 -1px 0 0 #fff, inset 0 0 0 1px rgba(229, 229, 229, 0.5);
 	list-style: none;
@@ -3349,7 +3355,7 @@ body.landing #page-wrapper {
 
 #main>header p {
 	border-top: solid 2px #e5e5e5;
-	color: #777;
+	color: var(--negro_caicu);
 	display: inline-block;
 	font-style: normal;
 	margin: 1em 0 0 0;
@@ -4052,14 +4058,17 @@ body.landing #main {
 
 :root {
 	--negro_caicu: #1f000aff;
+	--negroclaro_caicu: #380012ff;
 	--rojo_caicu: #b8003aff;
-	--azul_caicu: #eb004aff;
+	--azul_caicu: #9e0032ff;
 	--verde_caicu: #d10043ff;
-	--amarillo_caicu: #9e0032ff;
+	--amarillo_caicu: #eb004aff;
 	--rosado_caicu: #85002aff;
-	--blanco_caicu: #fffafdff;
-	--crema_caicu: #fffdf6;
+	/* --blanco_caicu: #fffafdff; */
+	--blanco_caicu: #FAF9F5;
+	--crema_caicu: #F5F1E9;
 }
+
 
 /* #9E0032
 #6B1531
@@ -4255,7 +4264,7 @@ body.landing #main {
 }
 
 .header-organizadores {
-	font-weight: 500;
+	font-weight: 600;
 }
 
 
