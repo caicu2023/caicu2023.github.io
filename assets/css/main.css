@@ -4051,7 +4051,7 @@ body.landing #main {
 /* Style defined for CAICU */
 
 :root {
-	--negro_caicu: #1A1B1D;
+	--negro_caicu: #1f000aff;
 	--rojo_caicu: #b8003aff;
 	--azul_caicu: #eb004aff;
 	--verde_caicu: #d10043ff;

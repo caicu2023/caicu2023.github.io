@@ -15,7 +15,7 @@ title: Sobre el Congreso
 		<h2>Participar del CAICU</h2>
 		</header>
 	<div class="box">
-		<span id="presentar-un-trabajo" class="image featured"><img src="images/banner_v2.png" alt="" /></span>
+		<span id="presentar-un-trabajo" class="image featured"><img src="images/banner.png" alt="" /></span>
 		<h3>Presentación de trabajos</h3>
 			<p>
 				La conferencia está dirigida a investigadorxs con diferentes grados de avance en su formación académica de todos los servicios de la Udelar y otras instituciones educativas, y a personas interesadas en reflexionar acerca del carnaval uruguayo. 
@@ -37,7 +37,7 @@ title: Sobre el Congreso
 			</p>
 	</div>
 	<div class="box">
-		<span id="asistir" class="image featured"><img src="images/banner_v2.png" alt="" /></span>
+		<span id="asistir" class="image featured"><img src="images/banner.png" alt="" /></span>
 		<h3>Asistir</h3>
 		<p>La participación en el CAICU es abierta y gratuita. Contaremos con un espacio de ciudados para personas con niñes a cargo. También está previsto el acompañamiento de intérpretes LSU en las distintas actividades del Congreso en caso de ser necesario.
 		<br>

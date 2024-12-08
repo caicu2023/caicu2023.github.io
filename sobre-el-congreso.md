@@ -30,8 +30,8 @@ title: Sobre el Congreso
 	</p>
 </header>
 
-<div id="organizadores" class="box">
-	<!-- <span id="organizadores" class="image featured"><img src="images/banner_circulares2.png" alt="" /></span> -->
+<div class="box">
+	<span id="organizadores" class="image featured"><img src="images/banner.png" alt="" /></span>
 	<h3 class="header-organizadores">Organizadores</h3>
 	<h4 class="header-organizadores"> Dirección académica</h4>
 	<ul class="alt">
