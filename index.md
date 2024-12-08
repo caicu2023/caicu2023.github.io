@@ -52,10 +52,10 @@ title: Inicio
       </div>
     </div>
     <div class="6u 12u(mobile)">
-      <div class="map-container">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13087.238682627953!2d-56.1730513!3d-34.9112256!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x959f81227ade5dff%3A0x10fb4aa92a0f545b!2sFaculty%20of%20Information%20and%20Communication%20%7C%20FIC-UDELAR!5e0!3m2!1sen!2suk!4v1732390902117!5m2!1sen!2suk" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-      </div>
-    </div>
+ <div class="map-container">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13087.238682627953!2d-56.1730513!3d-34.9112256!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x959f81227ade5dff%3A0x10fb4aa92a0f545b!2sFacultad%20de%20Información%20y%20Comunicación%20%7C%20FIC-UDELAR!5e0!3m2!1ses!2suy!4v1732390902117!5m2!1ses!2suy" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+</div>
   </div>
 </section>
 
