@@ -1,0 +1,30 @@
+<div id="page-wrapper">
+
+<!-- Header -->
+<header id="header" class="alt">
+	<!-- <h1 id="logo">CAICU</h1> -->
+	<a id="link_header" href="/"><img id="logo_header" src="/images/logo/caicu_bla.png" alt="CAICU"></a>
+	{% include menu.html %}
+</header>
+
+{% if page.layout == "default" %}
+<!-- Banner -->
+<section id="banner">
+	<!-- <h2><img id="logo_banner" src="/images/logo/logo_cre.png" alt="CAICU"></h2> -->
+	<!-- <p>{{ site.description }}</p> -->
+	<!-- <p>{{ site.subdescription }}</p> -->
+	<!-- 
+	<ul class="actions">
+		<li><a href="#" class="button special">Sign Up</a></li>
+		<li><a href="#" class="button">Learn More</a></li>
+	</ul> -->
+</section>
+{% else %}
+<!-- Main -->
+<section id="main" class="container">
+	<header>
+		<h2>{{ page.title }}</h2>
+		<p>{{ page.description }}</p>
+	</header>
+{% endif %}
+<div class="box">

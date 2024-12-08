@@ -8,17 +8,17 @@
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 <html>
 
-    {% include head.html %}
+{% include head.html %}
 
 <body>
-
-    {% include header.html %}
-
-    {% if page.featured-image %}
-    <span class="image featured">
-      <img src="{{ page.featured-image }}" alt="">
-    </span>
-    {% endif %}
+  
+ 
+<!-- Header -->
+<header id="header" class="reveal">
+	<!-- <h1 id="logo">CAICU</h1> -->
+	<a id="link_header" href="/"><img id="logo_header" src="/images/logo/caicu_bla.png" alt="CAICU"></a>
+	{% include menu.html %}
+</header>
     
     {{ content }}
     

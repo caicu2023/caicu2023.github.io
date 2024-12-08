@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
+<html>
+
+<head>
+    <title>{{ site.title }}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="{{ site.url }}{{ site.baseurl }}/assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/2023/assets/css/main.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/ie8.css" /><![endif]-->
+
+    <!-- mailchimp connection -->
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/3d3fbd188499d9bec7a7d6fea/f0e2e88946eabe634246e6b1a.js");</script>
+</head>
+
+<body class="landing">
+
+    <div id="page-wrapper">
+
+        <!-- Header -->
+        <header id="header" class="alt">
+            <!-- <h1 id="logo">CAICU</h1> -->
+            <a id="link_header" href="/2023"><img id="logo_header" src="/images/logo/caicu_bla.png" alt="CAICU"></a>
+            <nav id="nav">
+				<ul>
+					<li><a class="nav-button" href="/2023">Inicio</a></li>
+					<li>
+						<a href="sobre-el-congreso" class="icon solid fa-angle-down">Sobre el congreso</a>
+						<ul>
+							<li><a href="sobre-el-congreso#ejes-tematicos">Ejes temáticos</a></li>
+							<li><a href="sobre-el-congreso#organizadores">Organizadores</a></li>
+							<li><a href="sobre-el-congreso#circulares">Circulares</a></li><!-- 
+							<li>
+								<a href="#">Submenu</a>
+								<ul>
+									<li><a href="#">Option One</a></li>
+									<li><a href="#">Option Two</a></li>
+									<li><a href="#">Option Three</a></li>
+									<li><a href="#">Option Four</a></li>
+								</ul>
+							</li> -->
+						</ul>
+					</li>
+					<li>
+						<a href="inscripcion" class="icon solid fa-angle-down">Inscripción</a>
+						<ul>
+							<li><a href="inscripcion#presentar-un-trabajo">Presentar un trabajo</a></li>
+							<li><a href="inscripcion#asistir">Asistir</a></li>
+						</ul>
+					</li>
+					<li><a href="programa" class="icon solid fa-angle-down">Programa</a>
+						<ul>
+							<li><a href="programa#calendario">Calendario</a></li>
+							<li><a href="programa#agenda-del-congreso">Agenda del Congreso</a></li>
+							<li><a href="programa#trabajos-aceptados">Trabajos Aceptados</a></li>
+						</ul>
+					</li>
+					<li><a class="nav-button" href="/2023#cta">Contacto</a></li>
+					<li><a class="button special" href="english">English</a></li>
+					<!-- <li><a href="/" class="hover-text">Calendario</a></li>
+					<li><a href="/" class="hover-text">Contacto</a></li> -->
+
+					<!-- <li><a href="#" class="button">Sign Up</a></li> -->
+				</ul>
+			</nav>
+        </header>
+        
+        <section id="banner">
+        </section>
+        <div class="box">
+    
+    {{ content }}
+    
+    {% include cta.html %}
+    {% include footer.html %}
+
+
+</body>
+
+</html>
