@@ -17,7 +17,7 @@ title: Inicio
     <br />
     <br />
      <!-- LINK A ACTAS, LINK A PROGRAMA2023. -->
-    Para una mejor comprensión del evento, se recomienda leer las <a href="https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/45026">actas del primer CAICU (2023)</a> así como el <a href="/2023/programa">programa del primer CAICU</a>.
+    Te invitamos a leer las <a href="https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/45026">actas del primer CAICU (2023)</a> y a conocer el <a href="/2023/programa">programa de la edición anterior</a>.
     </p>
 	</header>
 	<header class="major">
@@ -48,7 +48,7 @@ title: Inicio
     <div class="6u 12u(mobile)">
       <div class="info-container">
         <h2>Sede</h2>
-        <p>Facultad de Comunicación <br> Universidad de la República <br><br> San Salvador 1944 <br> Montevideo, Uruguay  </p>
+        <p>Facultad de Información y Comunicación <br> Universidad de la República <br><br> San Salvador 1944 <br> Montevideo, Uruguay  </p>
       </div>
     </div>
     <div class="6u 12u(mobile)">
