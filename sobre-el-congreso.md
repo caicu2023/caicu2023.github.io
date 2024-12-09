@@ -42,15 +42,21 @@ title: Sobre el Congreso
 	<ul class="alt">
 		<li>Clara Biermann - Université Paris 8 (Francia)</li>
 		<li>Ricardo Klein - Universitat de València (España)</li>
-		<!-- <li>Julio E. Pereyra - Colectivo de Estudios Afrolatinoamericanos, Udelar</li> -->
+		<li>Julio E. Pereyra - Colectivo de Estudios Afrolatinoamericanos, Udelar</li>
 		<li>Ivan Meresman Higgs - Queen Mary University of London (Reino Unido)</li>
 		<li>Chiara Miranda Turnes - Facultad de Información y Comunicación, Udelar</li>
 		<li>Lucía Naser - Facultad de Artes, Udelar</li>
 	</ul>
 	<h4 class="header-organizadores">Comité organizador</h4>
 	<ul class="alt">
+		<!-- <li>Andrés Alba</li> -->
+		<li>Katia Casciano - Facultad de Información y Comunicación, Udelar</li>
+		<li>Judith González - Facultad de Psicología, Udelar</li>
+		<li>Cándida María Kamerbeek - Universidad de Buenos Aires (Argentina)</li>
+		<!-- <li>Camilo Lopez Moreira</li> -->
 		<li>Ivan Meresman Higgs - Queen Mary University of London (Reino Unido)</li>
 		<li>Chiara Miranda Turnes - Facultad de Información y Comunicación, Udelar</li>
+		<li>Gianela Turnes - Facultad de Humanidades y Ciencias de la Educación, Udelar</li>
 	</ul>
 </div>
 
