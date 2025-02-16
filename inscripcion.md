@@ -21,11 +21,27 @@ title: Sobre el Congreso
 				La conferencia está dirigida a investigadorxs con diferentes grados de avance en su formación académica de todos los servicios de la Udelar y otras instituciones educativas, y a personas interesadas en reflexionar acerca del carnaval uruguayo. 
 			</p>
 			<p>
-				Se invita a personas, grupos y organizaciones a presentar investigaciones desarrolladas o en proceso, reflexiones, análisis de experiencias, u otras modalidades de creación o difusión del conocimiento en torno al carnaval. Se recibirán artículos escritos completos (no resúmenes) que luego se presentarán oralmente en el congreso, de forma sintética. 
+				Se invita a personas, grupos y organizaciones a presentar investigaciones desarrolladas o en proceso, reflexiones, análisis de experiencias, u otras modalidades de creación o difusión del conocimiento en torno al carnaval. Se recibirán artículos que luego se presentarán oralmente en el congreso, de forma sintética. 
+				<br>
+				<br>
+				La revisión de los trabajos será realizada a ciegas por el comité académico y revisorxs invitadxs.
 			</p>
 			<h4>Enviar un artículo</h4>	
 			<p>
-				Detalles serán publicados en breve. La revisión de los trabajos será realizada a ciegas por el comité académico y revisorxs invitadxs.
+				En esta edición del CAICU se recibirán artículos en español, en dos formatos:
+				<ul>
+					<li><b>Artículos de conferencia</b> de hasta 2400 palabras sobre el carnaval uruguayo en sus distintas aristas y posibles abordajes. Se espera que cada artículo de conferencia incluya al menos: resumen (abstract) de 250 palabras, planteo del problema/pregunta, antecedentes y marco teórico, metodología, y resultados/conclusiones.</li>
+					<li><b>Trabajos exploratorios</b> de hasta 800 palabras sobre ideas incipientes o investigaciones en curso, que podrán presentarse en formato póster durante el congreso.</li>
+				</ul>
+				<br>
+				<br>
+				La extensión establecida para las dos categorías incluye figuras (imágenes, gráficos, etc.) pero no referencias bibliográficas. Todo los tipos de artículos deben incluir hasta 5 palabras clave, y un resumen en español y abstract en inglés, ambos de 250 palabras como máximo. En caso de necesitar apoyo con la traducción, puede contactarse con nosotrxs enviando un correo a <a href="mailto: contacto@caicu.uy">contacto@caicu.uy</a>.
+				<center>
+					<b>Enlace para enviar artículos: <a target="_blank" rel="noopener noreferrer" href="https://form.jotform.com/250463425133348" >click aquí</a></b>
+				</center>
+			</p>
+			<p>
+				La presentación se realiza a través de un formulario, en que se incluyen los datos de autoría del trabajo y se adjunta el documento siguiendo las pautas de formato previamente detalladas. Agradecemos no incluir los nombres de lxs autorxs en el documento a postular, para que el proceso de revisión no considere la identidad de quién postula. 
 			</p>
 			<h4>Propuestas artísticas</h4>
 			<p>
