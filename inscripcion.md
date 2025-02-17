@@ -33,15 +33,15 @@ title: Sobre el Congreso
 					<li><b>Artículos de conferencia</b> de hasta 2400 palabras sobre el carnaval uruguayo en sus distintas aristas y posibles abordajes. Se espera que cada artículo de conferencia incluya al menos: resumen (abstract) de 250 palabras, planteo del problema/pregunta, antecedentes y marco teórico, metodología, y resultados/conclusiones.</li>
 					<li><b>Trabajos exploratorios</b> de hasta 800 palabras sobre ideas incipientes o investigaciones en curso, que podrán presentarse en formato póster durante el congreso.</li>
 				</ul>
-				<br>
-				<br>
 				La extensión establecida para las dos categorías incluye figuras (imágenes, gráficos, etc.) pero no referencias bibliográficas. Todo los tipos de artículos deben incluir hasta 5 palabras clave, y un resumen en español y abstract en inglés, ambos de 250 palabras como máximo. En caso de necesitar apoyo con la traducción, puede contactarse con nosotrxs enviando un correo a <a href="mailto: contacto@caicu.uy">contacto@caicu.uy</a>.
+			</p>
+			<p>
+				Para presentar un trabajo en el CAICU, agradecemos complete el siguiente formulario con los datos solicitados. En las siguientes 48 horas hábiles recibirá un acuse de recibo con los pasos a seguir. Agradecemos no incluir los nombres de lxs autorxs en el documento a postular, para que el proceso de revisión no considere la identidad de quién postula. Ante cualquier consulta, contactarse con <a href="mailto: contacto@caicu.uy">contacto@caicu.uy</a>.
+				<br>
+				<br>
 				<center>
 					<b>Enlace para enviar artículos: <a target="_blank" rel="noopener noreferrer" href="https://form.jotform.com/250463425133348" >click aquí</a></b>
 				</center>
-			</p>
-			<p>
-				La presentación se realiza a través de un formulario, en que se incluyen los datos de autoría del trabajo y se adjunta el documento siguiendo las pautas de formato previamente detalladas. Agradecemos no incluir los nombres de lxs autorxs en el documento a postular, para que el proceso de revisión no considere la identidad de quién postula. 
 			</p>
 			<h4>Propuestas artísticas</h4>
 			<p>

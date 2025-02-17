@@ -30,7 +30,7 @@ title: Inicio
         Version para publicar: 31 de Agosto 2025 (Domingo)
         Publicar actas: 29 de Septiembre 2025 (Lunes)
         CAICU 2025: 6 al 10 de Octubre 2025 -->
-			  <li>17 de Febrero de 2025 - Apertura de convocatoria a presentación de trabajos</li>
+			  <li>17 de Febrero de 2025 - Apertura de convocatoria a presentación de trabajos <a href="/inscripcion/#presentar-un-trabajo">(ver detalles)</a></li>
 			  <li>15 de Junio de 2025 - Cierre de convocatoria a presentación de trabajos</li>
         <li>29 de Julio de 2025 - Comunicación de resultados de revisión de trabajos</li>
 			  <li><b>6 al 10 de Octubre de 2025 - 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo</b></li>
@@ -89,7 +89,7 @@ title: Inicio
 <!-- logos de apoyos institucionales -->
 <section class="box special">
 	<header class="major">
-		<h2 id="header_apoyan"> Organizan</h2>
+		<h2 id="header_apoyan"> Organiza</h2>
 			<img class="logo_apoyos" src="images/apoyos/logos_organizan.png" alt="Logos de Organizadores del CAICU"> 
 		<!-- <h2 id="header_apoyan"> Apoyan</h2>
 			<img class="logo_apoyos" src="images/apoyos/logos_apoyos.png" alt="Logos de Apoyos al CAICU">  -->
