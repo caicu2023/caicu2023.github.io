@@ -65,10 +65,10 @@ title: Sobre el Congreso
  <h3 class="header-colaboradores">Circulares</h3>
  <ul class="alt">
   <li>
-   <a href="circulares/1era_Circular_CAICU_2025.pdf" target="_blank" rel="noopener noreferrer">1era Circular - Diciembre 2024</a>
+   <a href="/circulares/1era_Circular_CAICU_2025.pdf" target="_blank" rel="noopener noreferrer">1era Circular - Diciembre 2024</a>
   </li>
   <li>
-   <a href="circulares/2da_Circular_CAICU_2025.pdf" target="_blank" rel="noopener noreferrer">2da Circular - Febrero 2025</a>
+   <a href="/circulares/2da_Circular_CAICU_2025.pdf" target="_blank" rel="noopener noreferrer">2da Circular - Febrero 2025</a>
   </li>
  </ul>
 </div>
