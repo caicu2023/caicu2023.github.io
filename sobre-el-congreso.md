@@ -61,7 +61,7 @@ title: Sobre el Congreso
 </div>
 
 <div class="box">
- <span id="colaboradores" class="image featured"><img src="images/banner.png" alt="" /></span>
+ <span id="circulares" class="image featured"><img src="images/banner.png" alt="" /></span>
  <h3 class="header-colaboradores">Circulares</h3>
  <ul class="alt">
   <li>
@@ -71,5 +71,6 @@ title: Sobre el Congreso
    <a href="circulares/2da_Circular_CAICU_2025.pdf" target="_blank" rel="noopener noreferrer">2da Circular - Febrero 2025</a>
   </li>
  </ul>
+</div>
 
 </section>
