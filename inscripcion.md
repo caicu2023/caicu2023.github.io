@@ -58,7 +58,9 @@ title: Sobre el Congreso
   <p>La participación en el CAICU es abierta y gratuita. Las actividades se realizarán en modalidad híbrida, presencialmente en la Facultad de Información y Comunicación de la Universidad de la República, y en forma virtual para las actividades que lo permitan.
   <br>
   <br>
-  Contaremos con un espacio de ciudados para personas con niñes a cargo. También está previsto el acompañamiento de intérpretes LSU en las distintas actividades del Congreso en caso de ser necesario.
+  Contaremos con un espacio de ciudados para personas con niñes a cargo. También existirá la posibilidad de solicitar el servicio de intérpretes de lengua de señas uruguaya (LSU) para quienes lo necesiten (escribir a contacto+lsu@caicu.uy).
+  
+  También está previsto el acompañamiento de intérpretes LSU en las distintas actividades del Congreso en caso de ser necesario.
   <br>
   <br>
   Detalles sobre la inscripción serán publicados en breve. Mientras tanto puede subscribirse para recibir novedades sobre el congreso <a href="https://www.caicu.uy/#cta">aquí</a>.
