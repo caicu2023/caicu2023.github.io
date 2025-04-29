@@ -59,8 +59,6 @@ title: Sobre el Congreso
   <br>
   <br>
   Contaremos con un espacio de ciudados para personas con niñes a cargo. También existirá la posibilidad de solicitar el servicio de intérpretes de lengua de señas uruguaya (LSU) para quienes lo necesiten (escribir a contacto+lsu@caicu.uy).
-  
-  También está previsto el acompañamiento de intérpretes LSU en las distintas actividades del Congreso en caso de ser necesario.
   <br>
   <br>
   Detalles sobre la inscripción serán publicados en breve. Mientras tanto puede subscribirse para recibir novedades sobre el congreso <a href="https://www.caicu.uy/#cta">aquí</a>.
