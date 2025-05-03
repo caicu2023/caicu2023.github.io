@@ -26,6 +26,14 @@ title: Sobre el Congreso
   artículos académicos con distintos grados de avance o profundidad, una exposición de pósters y la
   generación de espacios de intercambio académico entre investigadores e investigadoras.
  </p>
+
+<h3>¿Qué puedo presentar en el CAICU?</h3>
+<p>
+Invitamos a investigadoras e investigadores de todas las disciplinas y formaciones a reflexionar sobre el carnaval uruguayo desde diversas perspectivas. El CAICU acoge análisis musicológicos, estudios de la performance, investigaciones históricas, trabajos sobre impacto social y cultural, estudios sobre la salud de quienes hacen carnaval y exploraciones de las dimensiones económicas y políticas de la fiesta. Son bienvenidas reflexiones sobre relaciones de poder, profesionalización, políticas públicas, aspectos territoriales e identitarios, así como estudios específicos sobre diferentes géneros (murga, candombe, escuelas de samba, parodistas, revistas, humoristas, etc.), análisis de espectáculos, y trabajos sobre prácticas derivadas que se desarrollan fuera de Uruguay y su relación con el carnaval uruguayo, entre otros temas.
+<br />
+<br />
+Te invitamos a conocer algunos de los posibles enfoques que el CAICU propone en las <a href="https://hdl.handle.net/20.500.12008/45026" target="_blank">actas de nuestra primera edición</a> y a sumarte a la construcción de un congreso diverso y heterogéneo de estudios sobre el carnaval uruguayo.
+</p>
 </header>
 
 <div class="box">
