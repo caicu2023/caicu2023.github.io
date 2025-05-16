@@ -31,7 +31,7 @@ title: Inicio
         Publicar actas: 29 de Septiembre 2025 (Lunes)
         CAICU 2025: 6 al 10 de Octubre 2025 -->
      <li>17 de Febrero de 2025 - Apertura de convocatoria a presentación de trabajos <a href="/inscripcion/#presentar-un-trabajo">(ver detalles)</a></li>
-     <li>15 de Junio de 2025 - Cierre de convocatoria a presentación de trabajos</li>
+     <li><s>15</s> 30 de Junio de 2025 - Cierre de convocatoria a presentación de trabajos</li>
         <li>29 de Julio de 2025 - Comunicación de resultados de revisión de trabajos</li>
      <li><b>6 al 10 de Octubre de 2025 - 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo</b></li>
    </ul>
