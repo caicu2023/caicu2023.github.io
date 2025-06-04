@@ -43,13 +43,20 @@ title: Sobre el Congreso
      <b>Enlace para enviar artículos: <a target="_blank" rel="noopener noreferrer" href="https://form.jotform.com/250463425133348" >click aquí</a></b>
     </center>
    </p>
-   <h4>Propuestas artísticas</h4>
+   <h4>Propuestas de talleres</h4>
    <p>
     Se invita a  personas, grupos y organizaciones a presentar propuestas de talleres que se ajusten a los objetivos del Congreso. Detalles serán publicados en breve.
    </p>
-   <h4>Propuestas de talleres</h4>
+   <h4>Propuestas artísticas</h4>
    <p>
-    Se invita a personas, grupos y organizaciones a presentar otras propuestas artísticas sobre carnaval uruguayo que se ajusten a los objetivos del Congreso. Se incluyen aquí  fragmentos musicales, series fotográficas, documentales, audiovisuales de distinto tipo y otros formatos. Detalles serán publicados en breve.
+    Se invita a personas, grupos y organizaciones a presentar otras propuestas artísticas sobre carnaval uruguayo que se ajusten a los objetivos del Congreso. Se incluyen aquí  fragmentos musicales, series fotográficas, muestras artísticas de distinto tipo y otros formatos. Detalles serán publicados en breve.
+   </p>
+    <h4> Propuestas audiovisuales</h4>
+    <p>
+    Se invita a personas, grupos y organizaciones a presentar audiovisuales para su proyección en el CAICU. Se recibirán propuestas de corto, medio y largometrajes que aborden el carnaval uruguayo en alguna de sus expresiones o aspectos como temática.
+    <br>
+    <br>
+    Las propuestas serán recibidas en <a href="mailto: contacto+audiovisuales@caicu.uy">contacto+audiovisuales@caicu.uy</a> hasta el Lunes 28 de julio. Agradecemos incluir en el correo electrónico: título y resumen del audiovisual, autoría, duración y requerimientos materiales o técnicos.
    </p>
  </div>
  <div class="box">
