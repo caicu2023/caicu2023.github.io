@@ -30,7 +30,7 @@ title: Sobre el Congreso
    <p>
     En esta edición del CAICU se recibirán artículos en español, en dos formatos:
     <ul>
-     <li><b>Artículos de conferencia</b> de hasta 2400 palabras sobre el carnaval uruguayo en sus distintas aristas y posibles abordajes. Se espera que cada artículo de conferencia incluya al menos: resumen (abstract) de 250 palabras, planteo del problema/pregunta, antecedentes y marco teórico, metodología, y resultados/conclusiones.</li>
+     <li><b>Artículos de conferencia</b> de hasta 2400 palabras sobre el carnaval uruguayo en sus distintas aristas y posibles abordajes. Se espera que cada artículo de conferencia incluya al menos: resumen (abstract) de 250 palabras (no incluidas en las 2400), planteo del problema/pregunta, antecedentes y marco teórico, metodología, y resultados/conclusiones.</li>
      <li><b>Trabajos exploratorios</b> de hasta 800 palabras sobre ideas incipientes o investigaciones en curso, que podrán presentarse en formato póster durante el congreso.</li>
     </ul>
     La extensión establecida para las dos categorías incluye figuras (imágenes, gráficos, etc.) pero no referencias bibliográficas. Todo los tipos de artículos deben incluir hasta 5 palabras clave, y un resumen en español y abstract en inglés, ambos de 250 palabras como máximo. En caso de necesitar apoyo con la traducción, puede contactarse con nosotrxs enviando un correo a <a href="mailto: contacto@caicu.uy">contacto@caicu.uy</a>.
