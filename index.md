@@ -85,7 +85,7 @@ title: Inicio
  <header class="major">
   <h2 id="header_apoyan"> Organiza</h2>
    <img class="logo_apoyos" src="images/apoyos/logos_organizan.png" alt="Logos de Organizadores del CAICU">
-  <!-- <h2 id="header_apoyan"> Apoyan</h2>
-			<img class="logo_apoyos" src="images/apoyos/logos_apoyos.png" alt="Logos de Apoyos al CAICU">  -->
+  <h2 id="header_apoyan"> Apoyan</h2>
+   <img class="logo_apoyos" src="images/apoyos/logos_apoyos.png" alt="Logos de Apoyos al CAICU">
  </header>
 </section>
