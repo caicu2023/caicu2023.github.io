@@ -27,8 +27,7 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
             <td><b>Apertura</b></td>
           </tr>
           <tr>
-            <td></td>
-            <td><b>Carnaval y ciudad</b></td>
+            <td colspan="2" style="font-weight: bold;">Carnaval y ciudad</td>
           </tr>
           <tr>
             <td>17:30</td>
@@ -51,7 +50,7 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
           </tr>
           <tr>
             <td></td>
-            <td><b>Juventud y promesas</b></td>
+            <td colspan="2" style="font-weight: bold;">Juventud y promesas</td>
           </tr>
           <tr>
             <td>14:00</td>
@@ -62,16 +61,14 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
             <td>El Encuentro de Murga Joven<br><i>(Proyección de audiovisuales)</i></td>
           </tr>
           <tr>
-            <td></td>
-            <td><b>Sesión de posters</b></td>
+            <td colspan="2" style="font-weight: bold;">Sesión de posters</td>
           </tr>
           <tr>
             <td>16:00</td>
             <td>Presentación de posters y conversación con autorxs</td>
           </tr>
           <tr>
-            <td></td>
-            <td><b>La fiesta de los cuerpos</b></td>
+            <td colspan="2" style="font-weight: bold;">La fiesta de los cuerpos</td>
           </tr>
           <tr>
             <td>17:00</td>
@@ -85,16 +82,14 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
             <td colspan="2" style="background-color: #f4f4f4; font-weight: bold;">Miércoles 8</td>
           </tr>
           <tr>
-            <td></td>
-            <td><b>Murga fuera de fronteras</b></td>
+            <td colspan="2" style="font-weight: bold;">Murga fuera de fronteras</td>
           </tr>
           <tr>
             <td>14:00</td>
             <td>Murga, arte y activismo<br><i>(Mesa de presentación de ponencias)</i></td>
           </tr>
           <tr>
-            <td></td>
-            <td><b>Candombe</b></td>
+            <td colspan="2" style="font-weight: bold;">Candombe</td>
           </tr>
           <tr>
             <td>15:00</td>
@@ -116,8 +111,7 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
             <td colspan="2" style="background-color: #f4f4f4; font-weight: bold;">Jueves 9</td>
           </tr>
           <tr>
-            <td></td>
-            <td><b>Barrios y territorios del carnaval</b></td>
+            <td colspan="2" style="font-weight: bold;">Barrios y territorios del carnaval</td>
           </tr>
           <tr>
             <td>14:00</td>
@@ -132,8 +126,7 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
             <td>La Mueca desfiló… en silencio<br><i>(Proyección audiovisual)</i></td>
           </tr>
           <tr>
-            <td></td>
-            <td><b>Carnaval de nosotras</b></td>
+            <td colspan="2" style="font-weight: bold;">Carnaval de nosotras</td>
           </tr>
           <tr>
             <td>18:00</td>
@@ -148,8 +141,7 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
             <td>Mujeres que sostienen el carnaval<br><i>(Proyección de audiovisuales)</i></td>
           </tr>
           <tr>
-            <td></td>
-            <td><b>Carnaval y libertad</b></td>
+            <td colspan="2" style="font-weight: bold;">Carnaval y libertad</td>
           </tr>
           <tr>
             <td>20:00</td>
@@ -159,16 +151,14 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
             <td colspan="2" style="background-color: #f4f4f4; font-weight: bold;">Viernes 10</td>
           </tr>
           <tr>
-            <td></td>
-            <td><b>Géneros y categorías del carnaval</b></td>
+            <td colspan="2" style="font-weight: bold;">Géneros y categorías del carnaval</td>
           </tr>
           <tr>
             <td>14:00</td>
             <td>Transformaciones, discursos y fronteras<br><i>(Mesa de presentación de ponencias)</i></td>
           </tr>
           <tr>
-            <td></td>
-            <td><b>Circulación y recepción del carnaval</b></td>
+            <td colspan="2" style="font-weight: bold;">Circulación y recepción del carnaval</td>
           </tr>
           <tr>
             <td>15:30</td>
