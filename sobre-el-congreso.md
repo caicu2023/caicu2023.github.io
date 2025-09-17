@@ -52,6 +52,7 @@ Te invitamos a conocer algunos de los posibles enfoques que el CAICU propone en 
   <li>Ivan Meresman Higgs - Queen Mary University of London (Reino Unido)</li>
   <li>Chiara Miranda Turnes - Facultad de Información y Comunicación, Udelar</li>
   <li>Lucía Naser - Facultad de Artes, Udelar</li>
+  <li>Belén Pafundi - Museo del Carnaval</li>
  </ul>
  <h4 class="header-organizadores">Comité organizador</h4>
  <ul class="alt">

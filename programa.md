@@ -176,6 +176,13 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
             <td>19:00</td>
             <td><b>Cierre del CAICU 2025</b></td>
           </tr>
+          <tr>
+            <td colspan="2" style="background-color: #f4f4f4; font-weight: bold;">Sábado 11</td>
+          </tr>
+          <tr>
+            <td>10:00</td>
+            <td>Talleres</td>
+          </tr>
         </tbody>
       </table>
     </div>
