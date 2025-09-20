@@ -162,11 +162,11 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
           </tr>
           <tr>
             <td>15:30</td>
-            <td>Públicos e hinchadas<br><i>(Mesa de presentación de ponencias)</i></td>
+            <td>Televisión, derechos de imagen y propiedad<br><i>(Mesa de presentación de ponencias)</i></td>
           </tr>
           <tr>
             <td>16:30</td>
-            <td>Televisión, derechos de imagen y propiedad<br><i>(Mesa de presentación de ponencias)</i></td>
+            <td>Públicos e hinchadas<br><i>(Mesa de presentación de ponencias)</i></td>
           </tr>
           <tr>
             <td>18:00</td>
