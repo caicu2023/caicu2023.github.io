@@ -15,6 +15,20 @@ title: Sobre el Congreso
   <h2>Participar del CAICU</h2>
   </header>
  <div class="box">
+  <span id="asistir" class="image featured"><img src="images/banner.png" alt="" /></span>
+  <h3>Asistir</h3>
+  <p>La participación en el CAICU es abierta y gratuita. Las actividades se realizarán en modalidad híbrida, presencialmente en la Facultad de Información y Comunicación de la Universidad de la República, y en forma virtual para las actividades que lo permitan.
+  <br>
+  <br>
+  Contaremos con un espacio de ciudados para personas con niñes a cargo (escribir a contacto+cuidados@caicu.uy). También existirá la posibilidad de solicitar el servicio de intérpretes de lengua de señas uruguaya (LSU) para quienes lo necesiten (escribir a contacto+lsu@caicu.uy).
+  <br>
+  <br>
+  <b>
+  Para inscribirse al congreso, complete el siguiente formulario: <a href="https://forms.gle/XhpRS68ZSUsZFwaUA">https://forms.gle/XhpRS68ZSUsZFwaUA</a>.
+  </b>
+  </p>
+ </div>
+ <div class="box">
   <span id="presentar-un-trabajo" class="image featured"><img src="images/banner.png" alt="" /></span>
   <h3>Presentación de trabajos</h3>
    <p>
@@ -61,16 +75,4 @@ title: Sobre el Congreso
     <br>
     Las propuestas serán recibidas en <a href="mailto: contacto+audiovisuales@caicu.uy">contacto+audiovisuales@caicu.uy</a> hasta el 31 de julio. Agradecemos incluir en el correo electrónico: título y resumen del audiovisual, autoría, duración y requerimientos materiales o técnicos.
    </p>
- </div>
- <div class="box">
-  <span id="asistir" class="image featured"><img src="images/banner.png" alt="" /></span>
-  <h3>Asistir</h3>
-  <p>La participación en el CAICU es abierta y gratuita. Las actividades se realizarán en modalidad híbrida, presencialmente en la Facultad de Información y Comunicación de la Universidad de la República, y en forma virtual para las actividades que lo permitan.
-  <br>
-  <br>
-  Contaremos con un espacio de ciudados para personas con niñes a cargo. También existirá la posibilidad de solicitar el servicio de intérpretes de lengua de señas uruguaya (LSU) para quienes lo necesiten (escribir a contacto+lsu@caicu.uy).
-  <br>
-  <br>
-  Detalles sobre la inscripción serán publicados en breve. Mientras tanto puede subscribirse para recibir novedades sobre el congreso <a href="https://www.caicu.uy/#cta">aquí</a>.
-  </p>
  </div>
