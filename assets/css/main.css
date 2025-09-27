@@ -4339,3 +4339,67 @@ body.landing #main {
 #banner.englishBanner {
 	background-image: url("images/"), url("/images/banner_caicu_2025.png");
 }
+
+
+.programa-table {
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 0;
+	margin: 20px 0;
+}
+
+.dia-header {
+	background-color: var(--rojo_caicu);
+	color: white;
+	font-weight: bold;
+	padding: 12px;
+	text-align: center;
+	font-size: 1.1em;
+}
+
+.tema-header {
+	background-color: #f8f8f8;
+	font-weight: bold;
+	padding: 10px;
+	font-style: italic;
+	color: #333;
+	border-left: 4px solid var(--rojo_caicu);
+}
+
+.hora-cell {
+	background-color: #fafafa;
+	padding: 10px;
+	width: 80px;
+	font-weight: bold;
+	color: #666;
+	border-right: 2px solid #eee;
+	vertical-align: top;
+}
+
+.actividad-cell {
+	padding: 10px 15px;
+	line-height: 1.4;
+	border-bottom: 1px solid #f0f0f0;
+	vertical-align: top;
+}
+
+.actividad-cell strong {
+	color: var(--rosado_caicu);
+}
+
+.actividad-cell i {
+	color: #666;
+	font-size: 0.9em;
+}
+
+.dia-block {
+	margin-bottom: 30px;
+	border-radius: 8px;
+	overflow: hidden;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.bloque-spacer {
+	height: 20px;
+	background-color: transparent;
+}
