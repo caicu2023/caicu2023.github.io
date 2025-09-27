@@ -311,4 +311,3 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
     <p>Las actividades del congreso serán de acceso libre y gratuito. Se otorgarán certificados de asistencia y participación.</p>
     <p>Link para inscripciones: <a href="https://forms.gle/LH3d3GARbwestmnT8">https://forms.gle/LH3d3GARbwestmnT8</a></p>
   </div>
-</section>
