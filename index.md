@@ -7,6 +7,10 @@ title: Inicio
 </style>
 
 <section class="box special" id="col_angosta">
+<header class="major">
+ <h2>¡Inscripciones abiertas!</h2>
+ <p><a href="https://forms.gle/bd8jpB81qFNTCu8A8">Inscribite al CAICU 2025</a> para asegurar tu lugar en el congreso. Es abierto y gratuito. Programa completo <a href="/programa/">disponible aquí</a>.</p>
+</header>
  <header class="major">
   <h2>Entender la fiesta</h2>
   <p>El carnaval es una de las fiestas populares más importantes del Uruguay. Tanto a nivel artístico y creativo como en relación a la cantidad de personas y estructuras involucradas, su relevancia para la cultura y la sociedad uruguaya es innegable. Diverso en su esencia y sus formas, el carnaval uruguayo constituye un fenómeno complejo y heterogéneo que admite una multiplicidad de enfoques disciplinares e interdisciplinares.
@@ -17,7 +21,7 @@ title: Inicio
     <br />
     <br />
      <!-- LINK A ACTAS, LINK A PROGRAMA2023. -->
-    Te invitamos a leer las <a href="https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/45026">actas del primer CAICU (2023)</a> y a conocer el <a href="/2023/programa">programa de la edición anterior</a>. Subscribite a nuestra <a target="_blank" rel="noopener noreferrer" href="https://caicu.us21.list-manage.com/subscribe?u=3d3fbd188499d9bec7a7d6fea&id=c812a08d9b">lista de correos</a> para recibir novedades y las circulares informativas del congreso.
+    Te invitamos a leer las <a href="https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/45026">actas del primer CAICU (2023)</a>. Subscribite a nuestra <a target="_blank" rel="noopener noreferrer" href="https://caicu.us21.list-manage.com/subscribe?u=3d3fbd188499d9bec7a7d6fea&id=c812a08d9b">lista de correos</a> para recibir novedades y las circulares informativas del congreso.
     </p>
  </header>
  <header class="major">
@@ -31,9 +35,10 @@ title: Inicio
         Publicar actas: 29 de Septiembre 2025 (Lunes)
         CAICU 2025: 6 al 10 de Octubre 2025 -->
      <li>17 de Febrero de 2025 - Apertura de convocatoria a presentación de trabajos <a href="/inscripcion/#presentar-un-trabajo">(ver detalles)</a></li>
-     <li><s>15 de Junio</s> 15 de Julio de 2025 - Cierre de convocatoria a presentación de trabajos</li>
+     <!-- <li><s>15 de Junio</s> 15 de Julio de 2025 - Cierre de convocatoria a presentación de trabajos</li> -->
+      <li>15 de Julio de 2025 - Cierre de convocatoria a presentación de trabajos</li>
         <li>29 de Julio de 2025 - Comunicación de resultados de revisión de trabajos</li>
-     <li><b>6 al 10 de Octubre de 2025 - 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo</b></li>
+     <li><b>6 al 11 de Octubre de 2025 - 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo</b></li>
    </ul>
   </div>
  </header>
