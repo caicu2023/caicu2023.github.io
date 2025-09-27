@@ -38,7 +38,8 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
         <td class="hora-cell">18:30</td>
         <td class="actividad-cell"><b>Mesa de debate</b><br>
         <i>Eduardo Rabelino / Gerente de Festejos y Espectáculos - Intendencia de Montevideo<br>
-        Gabriel Nieto / Programa Tablado de Barrio / Red de Escenarios Populares<br>
+        Gabriel Nieto / Programa Tablado de Barrio<br>
+        / Red de Escenarios Populares<br>
         Alejandro Salkind / Organizador Monumental de la Costa - Parque Roosevelt Tablado<br>
         Modera: Juan Castel</i></td>
       </tr>
