@@ -235,18 +235,29 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
       </tr>
       <tr>
         <td class="hora-cell">14:00</td>
-        <td class="actividad-cell"><b>Transformaciones, discursos y fronteras</b><br><i>Mesa de presentación de ponencias / Salón 110 - Portal Rabú</i></td>
+        <td class="actividad-cell"><b>Transformaciones, discursos y fronteras</b><br><i>Mesa de presentación de ponencias / Salón 110 - Portal Rabú</i><br>
+        Modera: <br><br>
+        Parodiar la aldea | Felipe Fernández<br><br>
+        De cabarets, variétés y troupes, a la Revista de Carnaval | Noemí Alem Gómez<br><br>
+        “Están bravos los Sing a Roos”. Fronteras entre géneros carnavalescos | Chiara Miranda Turnes<br><br>
+        Lo no dicho en el cuplé «Murga La» | Luis Dufuur</td>
       </tr>
       <tr>
         <td colspan="2" class="tema-header">Circulación y recepción del carnaval</td>
       </tr>
       <tr>
         <td class="hora-cell">15:30</td>
-        <td class="actividad-cell"><b>Televisión, derechos de imagen y propiedad</b><br><i>Mesa de presentación de ponencias / Salón 110 - Portal Rabú<br>Modera: Juan Pellicer</i></td>
+        <td class="actividad-cell"><b>Televisión, derechos de imagen y propiedad</b><br><i>Mesa de presentación de ponencias / Salón 110 - Portal Rabú<br>Modera: Juan Pellicer</i><br><br>
+        ¿Tendrán los patos un nuevo espectador? Apuntes para conversar | Raúl De León<br><br>
+        El Carnaval y la Propiedad Intelectual en el Uruguay | Beatriz Bugallo<br><br>
+        La murga entre el escenario y la pantalla: tensiones estéticas y mediáticas en el Concurso Oficial | Gastón Amorin Alsina</td>
       </tr>
       <tr>
         <td class="hora-cell">16:30</td>
-        <td class="actividad-cell"><b>Públicos e hinchadas</b><br><i>Mesa de presentación de ponencias / Salón 110 - Portal Rabú<br>Modera: Chiara Miranda Turnes</i></td>
+        <td class="actividad-cell"><b>Públicos e hinchadas</b><br><i>Mesa de presentación de ponencias / Salón 110 - Portal Rabú<br>Modera: Chiara Miranda Turnes</i><br><br>
+        El carnaval de los Sordos: Un desafío a la integración socio-cultural y lingüística | Pablo Germán García Lucero<br><br>
+        “Siempre habrá una hinchada preguntando ¿dónde están?” Sorpresivo registro e incipiente análisis de La Trasnochada y su hinchada | Cándida María Kamerbeek<br><br>
+        Del carnaval teatralizado al teatro carnavalizado: Reflexiones sobre las formas del teatro popular | Gustavo Remedi</td>
       </tr>
       <tr>
         <td class="hora-cell">18:00</td>
