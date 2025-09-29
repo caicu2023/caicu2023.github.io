@@ -9,7 +9,9 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
 
   <div id="grilla" class="box">
     <h3>Grilla</h3>
-    <p>El programa del CAICU 2025 se desarrollará a lo largo de cinco días, del <b>lunes 6 al sábado 11 de octubre</b>. Las actividades incluyen conferencias magistrales, mesas de ponencias, proyecciones audiovisuales, presentaciones de libros, encuentros y debates que abordan las múltiples dimensiones del carnaval uruguayo.</p>
+    <p>El programa del CAICU 2025 se desarrollará a lo largo de cinco días, del <b>lunes 6 al sábado 11 de octubre</b>. Las actividades incluyen conferencias magistrales, mesas de ponencias, proyecciones audiovisuales, presentaciones de libros, encuentros y debates que abordan las múltiples dimensiones del carnaval uruguayo.<br><br>
+    <a href="https://forms.gle/bd8jpB81qFNTCu8A8">¡Inscribite para asistir al CAICU!</a>
+    </p>
 
     <div class="dia-block">
   <table class="programa-table">
@@ -283,9 +285,9 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
     </thead>
     <tbody>
       <tr>
-        <td colspan="2" class="tema-header">Talleres<br>
+        <td colspan="2" class="tema-header">Talleres<br><span style="font-weight: normal;">
         Link para inscripciones: <a href="https://forms.gle/8HXJNnHsjkCPF2cL6">https://forms.gle/8HXJNnHsjkCPF2cL6</a>
-        </td>
+        </span></td>
       </tr>
       <tr>
         <td class="hora-cell">10:00</td>
