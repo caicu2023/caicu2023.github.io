@@ -86,7 +86,6 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
         <td class="hora-cell">16:00</td>
         <td class="actividad-cell"><b>Presentación de posters y conversación con autorxs</b><br><i>Hall principal de la FIC</i><br><br>
         Audiodescripción en vivo en Carnaval: una experiencia de accesibilidad cultural situada | Néstor Jesús Bermúdez Otegui, Rocío Inés Varela Tarabal, Ignacio Bruné Borjas, Facundo Fernández Ibarra, Magela Rodríguez Da Silveira<br><br>
-        La formación en carnaval. Una experiencia en desarrollo | Joaquín Doldán<br><br>
         De la fiesta popular al ritual laico: una lectura histórico-simbólica del carnaval montevideano hacia el comienzo del siglo XX | Donatella Paolozzi<br><br>
         Pulso de la memoria: el Candombe como práctica identitaria en Capurro | Naiquen Rodríguez Curto<br><br>
         Donde canta el pueblo y anuncian las marcas. Análisis comparativo de los tablados populares y comerciales como medio publicitario durante el carnaval 2026 en Montevideo | Romina Pampillon, Lucía Amado, Manuel Escudero, Matías Wilkins<br><br>
@@ -305,6 +304,49 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
       <tr>
         <td class="hora-cell"></td>
         <td class="actividad-cell"><b>Batería de murga montevideana y sus candombes amurgados. Identidad sonora y rítmica de nuestras calles</b><br><i>Gerardo "Batata" Cánepa Guerra (Museo del Carnaval)</i></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="dia-block">
+  <table class="programa-table">
+    <thead>
+      <tr>
+        <th class="dia-header" colspan="2">Propuestas artístico-expositivas</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td colspan="2" class="tema-header">Exposiciones y muestras</td>
+      </tr>
+      <tr>
+        <td class="hora-cell"></td>
+        <td class="actividad-cell"><b>Vestigios Efímeros, el maquillaje como relato</b><br><i>Ana Clara Landabure</i></td>
+      </tr>
+      <tr>
+        <td class="hora-cell"></td>
+        <td class="actividad-cell"><b>Del boceto a la escena, el proceso de creación</b><br><i>Carolina Fontana</i></td>
+      </tr>
+      <tr>
+        <td class="hora-cell"></td>
+        <td class="actividad-cell"><b>El carnaval como obra de arte</b><br><i>Mauro Cardozo</i></td>
+      </tr>
+      <tr>
+        <td class="hora-cell"></td>
+        <td class="actividad-cell"><b>El abrazo murguero</b><br><i>Camilo López-Moreira</i></td>
+      </tr>
+      <tr>
+        <td class="hora-cell"></td>
+        <td class="actividad-cell"><b>Fotografías históricas de tablados y personajes del Carnaval Uruguayo</b><br><i>CDF Montevideo</i></td>
+      </tr>
+      <tr>
+        <td class="hora-cell"></td>
+        <td class="actividad-cell"><b>Muestra de vestuario de Carnaval</b><br><i>Curaduría: Cecilia Carriquiry y Camilo López-Moreira</i></td>
+      </tr>
+      <tr>
+        <td class="hora-cell"></td>
+        <td class="actividad-cell"><b>Instalación basada en obra Recuerdos de Niza</b><br><i>Diseño y realización: Cecilia Carriquiry y Martín Sacco</i></td>
       </tr>
     </tbody>
   </table>
