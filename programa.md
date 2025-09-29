@@ -283,7 +283,9 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
     </thead>
     <tbody>
       <tr>
-        <td colspan="2" class="tema-header">Talleres</td>
+        <td colspan="2" class="tema-header">Talleres<br>
+        Link para inscripciones: <a href="https://forms.gle/8HXJNnHsjkCPF2cL6">https://forms.gle/8HXJNnHsjkCPF2cL6</a>
+        </td>
       </tr>
       <tr>
         <td class="hora-cell">10:00</td>
@@ -296,6 +298,10 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
       <tr>
         <td class="hora-cell"></td>
         <td class="actividad-cell"><b>Cómo no escribir Murga Joven</b><br><i>Pablo Colacce</i></td>
+      </tr>
+      <tr>
+        <td class="hora-cell"></td>
+        <td class="actividad-cell"><b>El Derecho de las expresiones culturales y las creaciones de autores y artistas en el Carnaval del Uruguay</b><br><i>Beatriz Bugallo y equipo</i></td>
       </tr>
       <tr>
         <td class="hora-cell">14:00</td>
