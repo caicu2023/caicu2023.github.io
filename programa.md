@@ -237,7 +237,7 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
       <tr>
         <td class="hora-cell">14:00</td>
         <td class="actividad-cell"><b>Transformaciones, discursos y fronteras</b><br><i>Mesa de presentación de ponencias / Salón 110 - Portal Rabú<br>
-        Modera: </i><br><br>
+        Modera: Gastón Amorin Alsina</i><br><br>
         Parodiar la aldea | Felipe Fernández<br><br>
         De cabarets, variétés y troupes, a la Revista de Carnaval | Noemí Alem Gómez<br><br>
         “Están bravos los Sing a Roos”. Fronteras entre géneros carnavalescos | Chiara Miranda Turnes<br><br>
