@@ -119,7 +119,7 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
       </tr>
       <tr>
         <td class="hora-cell">18:30</td>
-        <td class="actividad-cell"><b>Bailar en carnaval: el carnaval como escuela, el carnaval como trabajo</b><br><i>Encuentro y mapeo colectivo / Salón 109 - Portal Rabú<br>Moderación: Paula Villalba, Rafa Martínez Crosa<br>Mapeo y relatoría: Ana Sarmiento, Santiago Turenne, Tamara Gómez, Lucía Naser</i></td>
+        <td class="actividad-cell"><b>Bailar en carnaval: el carnaval como escuela, el carnaval como trabajo</b><br><i>Encuentro y mapeo colectivo / Salón 107 - Portal Rabú<br>Moderación: Paula Villalba, Rafa Martínez Crosa<br>Mapeo y relatoría: Ana Sarmiento, Santiago Turenne, Tamara Gómez, Lucía Naser</i></td>
       </tr>
     </tbody>
   </table>
@@ -315,7 +315,7 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
       </tr>
       <tr>
         <td class="hora-cell">10:00</td>
-        <td class="actividad-cell"><b>Cuerpo en movimiento y tambor en resonancia</b><br><i>Bettina Rocha</i></td>
+        <td class="actividad-cell"><b>Cuerpo en movimiento y tambor en resonancia</b><br><i>Bettina Rocha</i> <b>(CUPOS COMPLETOS)</b></td>
       </tr>
       <tr>
         <td class="hora-cell"></td>
