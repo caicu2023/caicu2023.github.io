@@ -94,6 +94,10 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
       </tr>
       <tr>
         <td class="hora-cell">16:00</td>
+        <td class="actividad-cell"><strong>Coffee break</strong></td>
+      </tr>
+      <tr>
+        <td class="hora-cell">16:00</td>
         <td class="actividad-cell"><b>Presentación de posters y conversación con autorxs</b><br><i>Hall principal de la FIC</i><br><br>
         Audiodescripción en vivo en Carnaval: una experiencia de accesibilidad cultural situada | Néstor Jesús Bermúdez Otegui, Rocío Inés Varela Tarabal, Ignacio Bruné Borjas, Facundo Fernández Ibarra, Magela Rodríguez Da Silveira<br><br>
         De la fiesta popular al ritual laico: una lectura histórico-simbólica del carnaval montevideano hacia el comienzo del siglo XX | Donatella Paolozzi<br><br>
@@ -155,6 +159,10 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
         <td class="actividad-cell"><b>Candombe Transformação e Permanência - Uma leitura de Rua e Palco</b><br><i>Presentación de libro / Biblioteca<br>Miguel Angel Rodriguez Silva</i></td>
       </tr>
       <tr>
+        <td class="hora-cell">17:00</td>
+        <td class="actividad-cell"><strong>Coffee break</strong></td>
+      </tr>
+      <tr>
         <td class="hora-cell">17:30</td>
         <td class="actividad-cell"><b>La fiesta de los negros. Una historia del antiguo carnaval de Buenos Aires y su legado en la cultura popular</b><br><i>Conferencia de Ezequiel Adamovsky / Aula Magna<br>Comentan: Milita Alfaro, Gustavo Goldman, Alejandro Gortázar</i></td>
       </tr>
@@ -199,6 +207,10 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
       <tr>
         <td class="hora-cell">17:00</td>
         <td class="actividad-cell"><b>La Mueca desfiló… en silencio</b><br><i>Proyección audiovisual / Aula Magna<br>Mario Ipuche</i></td>
+      </tr>
+      <tr>
+        <td class="hora-cell">17:30</td>
+        <td class="actividad-cell"><strong>Coffee break</strong></td>
       </tr>
       <tr>
         <td colspan="2" class="tema-header">Carnaval de nosotras</td>
@@ -263,6 +275,10 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
       </tr>
       <tr>
         <td class="hora-cell">16:30</td>
+        <td class="actividad-cell"><strong>Coffee break</strong></td>
+      </tr>
+      <tr>
+        <td class="hora-cell">17:00</td>
         <td class="actividad-cell"><b>Públicos e hinchadas</b><br><i>Mesa de presentación de ponencias / Salón 110 - Portal Rabú<br>Modera: Chiara Miranda Turnes</i><br><br>
         El carnaval de los Sordos: Un desafío a la integración socio-cultural y lingüística | Pablo Germán García Lucero<br><br>
         “Siempre habrá una hinchada preguntando ¿dónde están?” Sorpresivo registro e incipiente análisis de La Trasnochada y su hinchada | Cándida María Kamerbeek<br><br>
