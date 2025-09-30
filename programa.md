@@ -270,7 +270,7 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
         <td class="hora-cell">15:30</td>
         <td class="actividad-cell"><b>Televisión, derechos de imagen y propiedad</b><br><i>Mesa de presentación de ponencias / Salón 110 - Portal Rabú<br>Modera: Juan Pellicer</i><br><br>
         ¿Tendrán los patos un nuevo espectador? Apuntes para conversar | Raúl De León<br><br>
-        El Carnaval y la Propiedad Intelectual en el Uruguay | Beatriz Bugallo<br><br>
+        El Carnaval y la Propiedad Intelectual en el Uruguay | Beatriz Bugallo, Santiago Castromán, Ruben López, Ivanna López, Alexander Maino, Abdo Méndez, Yamila Morales, Silvina Vila y Hugo Tesoro<br><br>
         La murga entre el escenario y la pantalla: tensiones estéticas y mediáticas en el Concurso Oficial | Gastón Amorin Alsina</td>
       </tr>
       <tr>
