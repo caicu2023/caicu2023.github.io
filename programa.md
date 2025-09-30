@@ -27,7 +27,15 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
       </tr>
       <tr>
         <td class="hora-cell">17:00</td>
-        <td class="actividad-cell"><strong>Apertura del Congreso</strong></td>
+        <td class="actividad-cell"><strong>Apertura del Congreso</strong><br>
+        <i>
+        María Gladys Ceretta / Decana de la Facultad de Información y Comunicación<br>
+        Eduardo Rabelino / Intendencia de Montevideo<br>
+        Maru Vidal / Dirección Nacional de Cultura<br>
+        Chiara Miranda Turnes / Cátedra UNESCO en Carnaval y Patrimonio<br>
+        Cecilia Carriquiry / CAICU - Instalaciones artísticas
+        </i>
+        </td>
       </tr>
       <tr>
         <td colspan="2" class="tema-header">Carnaval y ciudad</td>
@@ -307,7 +315,8 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
       </tr>
       <tr>
         <td class="hora-cell">14:00</td>
-        <td class="actividad-cell"><b>Tejiendo murga</b><br><i>Cecilia Alzogaray y Victoria Bonanata (Museo del Carnaval)</i></td>
+        <td class="actividad-cell"><b>Tejiendo murga</b><br><i>Cecilia Alzogaray y Victoria Bonanata (Museo del Carnaval)</i><br>
+        <i>(Este taller está dirigido exclusivamente a mujeres)</i></td>
       </tr>
       <tr>
         <td class="hora-cell"></td>
