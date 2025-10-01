@@ -385,6 +385,31 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
   </table>
 </div>
 
+<div class="dia-block">
+  <table class="programa-table">
+    <thead>
+      <tr>
+        <th class="dia-header" colspan="2">Datatón sobre Carnaval Uruguayo en Wikidata</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td colspan="2" class="tema-header">Organiza: Wikimedistas de Uruguay</td>
+      </tr>
+      <tr>
+        <td class="hora-cell"></td>
+        <td class="actividad-cell">
+          <b>Sumate a mejorar la representación del Carnaval Uruguayo en internet</b><br>
+          Wikimedistas de Uruguay invita a participar en una datatón abierta para mejorar la información sobre el carnaval uruguayo en <a href="https://wikidata.org" target="_blank">wikidata.org</a>, la base de conocimientos libre que alimenta Wikipedia y muchas otras aplicaciones y sitios web.<br><br>
+          La datatón ya está en marcha y va hasta el 18 de octubre de 2025. Podés contribuir a tu ritmo, desde cualquier lugar. Los saberes del sur global, suelen estar subrepresentados en Wikidata, así como en Wikipedia y en el resto de internet. El carnaval uruguayo no es la excepción: la información disponible sobre el tema es limitada y no está organizada óptimamente.<br><br>
+          Esta actividad está dirigida tanto a académicxs como a entusiastas del carnaval en general. No se requieren conocimientos previos. Esta es una tarea multidisciplinaria donde nos sirve aunar esfuerzos entre personas de diversas trayectorias, habilidades e intereses.<br><br>
+          <b>Más información:</b> <a href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Uruguayan_Carnival" target="_blank">Página de la datatón</a> | <a href="mailto:datos@wikimedistas.uy">datos@wikimedistas.uy</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
   <div id="programa-completo" class="box">
     <h3>Programa completo</h3>
     <p>Próximamente estarán disponibles los detalles completos del programa, incluyendo los resúmenes de todas las ponencias, información sobre lxs ponentes, y la programación detallada de cada actividad.</p>
