@@ -280,7 +280,7 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
       <tr>
         <td class="hora-cell">17:00</td>
         <td class="actividad-cell"><b>Públicos e hinchadas</b><br><i>Mesa de presentación de ponencias / Salón 110 - Portal Rabú<br>Modera: Chiara Miranda Turnes</i><br><br>
-        El carnaval de los Sordos: Un desafío a la integración socio-cultural y lingüística | Pablo Germán García Lucero<br><br>
+        El carnaval de los Sordos: Un desafío a la integración socio-cultural y lingüística | Adriana De León y Pablo García Lucero<br><br>
         “Siempre habrá una hinchada preguntando ¿dónde están?” Sorpresivo registro e incipiente análisis de La Trasnochada y su hinchada | Cándida María Kamerbeek<br><br>
         Del carnaval teatralizado al teatro carnavalizado: Reflexiones sobre las formas del teatro popular | Gustavo Remedi</td>
       </tr>
