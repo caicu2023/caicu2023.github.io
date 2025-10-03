@@ -403,7 +403,7 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
           Wikimedistas de Uruguay invita a participar en una datatón abierta para mejorar la información sobre el carnaval uruguayo en <a href="https://wikidata.org" target="_blank">wikidata.org</a>, la base de conocimientos libre que alimenta Wikipedia y muchas otras aplicaciones y sitios web.<br><br>
           La datatón ya está en marcha y va hasta el 18 de octubre de 2025. Podés contribuir a tu ritmo, desde cualquier lugar. Los saberes del sur global, suelen estar subrepresentados en Wikidata, así como en Wikipedia y en el resto de internet. El carnaval uruguayo no es la excepción: la información disponible sobre el tema es limitada y no está organizada óptimamente.<br><br>
           Esta actividad está dirigida tanto a académicxs como a entusiastas del carnaval en general. No se requieren conocimientos previos. Esta es una tarea multidisciplinaria donde nos sirve aunar esfuerzos entre personas de diversas trayectorias, habilidades e intereses.<br><br>
-          <b>Más información:</b> <a href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Uruguayan_Carnival" target="_blank">Página de la datatón</a> | <a href="mailto:datos@wikimedistas.uy">datos@wikimedistas.uy</a>
+          <b>Más información:</b> <a href="https://www.wikidata.org/wiki/Wikidata:Datat%C3%B3n_Wikimedista_en_el_CAICU" target="_blank">Página de la datatón</a> | <a href="mailto:datos@wikimedistas.uy">datos@wikimedistas.uy</a>
         </td>
       </tr>
     </tbody>
