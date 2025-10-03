@@ -90,7 +90,7 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
         Antes de noviembre: retazos de La Pocho | Inés Carbajal</td>
       </tr>
       <tr>
-        <td colspan="2" class="tema-header">Sesión de posters</td>
+        <td colspan="2" class="tema-header">Sesión de posters e instalaciones artístico-expositivas</td>
       </tr>
       <tr>
         <td class="hora-cell">16:00</td>
@@ -106,6 +106,18 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
         Estrategias de comunicación para impulsar el Encuentro de Murga Joven | Sofia Miranda, Catalina Soñora<br><br>
         Carnaval de todos ¿y todas? | Federico Dobal</td>
       </tr>
+      <tr>
+        <td class="hora-cell">16:00</td>
+        <td class="actividad-cell"><b>Presentación de instalaciones artístico-expositivas y conversación con creadorxs</b><br><i>Hall principal de la FIC</i>
+        <!-- <br><br> -->
+        <!-- Vestigios Efímeros, el maquillaje como relato | Ana Clara Landabure<br><br>
+        Del boceto a la escena, el proceso de creación | Carolina Fontana<br><br>
+        El carnaval como obra de arte | Mauro Cardozo<br><br>
+        El abrazo murguero | Camilo López-Moreira<br><br>
+        Fotografías históricas de tablados y personajes del Carnaval Uruguayo | CDF Montevideo<br><br>
+        Muestra de vestuario de Carnaval | Curaduría: Cecilia Carriquiry y Camilo López-Moreira<br><br>
+        Instalación basada en obra Recuerdos de Niza | Diseño y realización: Cecilia Carriquiry y Martín Sacco -->
+        </td>
       <tr>
         <td colspan="2" class="tema-header">La fiesta de los cuerpos</td>
       </tr>
