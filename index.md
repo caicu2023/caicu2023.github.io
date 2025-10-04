@@ -9,7 +9,8 @@ title: Inicio
 <section class="box special" id="col_angosta">
 <header class="major">
  <h2>¡Inscripciones abiertas!</h2>
- <p><a href="https://forms.gle/bd8jpB81qFNTCu8A8">Inscribite al CAICU 2025</a> para asegurar tu lugar en el congreso. Es abierto y gratuito. Programa completo <a href="/programa/">disponible aquí</a>.</p>
+ <p><a href="https://forms.gle/bd8jpB81qFNTCu8A8">Inscribite al CAICU 2025</a> para asegurar tu lugar en el congreso. Es abierto y gratuito. Grilla completa <a href="/programa/">disponible aquí</a>.</p>
+ <p> Puede descargar el programa completo en formato PDF <a href="/circulares/Programa_CAICU_2025.pdf" target="_blank" rel="noopener noreferrer">aquí</a>.</p>
 </header>
  <header class="major">
   <h2>Entender la fiesta</h2>

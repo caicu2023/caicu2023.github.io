@@ -85,6 +85,9 @@ Te invitamos a conocer algunos de los posibles enfoques que el CAICU propone en 
   <li>
     <a href="/circulares/4ta_Circular_CAICU_2025.pdf" target="_blank" rel="noopener noreferrer">4ta Circular - Junio 2025</a>
   </li>
+  <li>
+    <a href="/circulares/5ta_Circular_CAICU_2025.pdf" target="_blank" rel="noopener noreferrer">5ta Circular - Septiembre 2025</a>
+  </li>
  </ul>
 </div>
 
