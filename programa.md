@@ -426,7 +426,7 @@ description: 2do Congreso Académico Interdisciplinario sobre Carnaval Uruguayo
   <div id="programa-completo" class="box">
     <h3>Programa completo</h3>
     <p>El programa completo incluye los resúmenes de todas las ponencias, información sobre lxs ponentes, y la programación detallada de cada actividad.</p>
-    <p><a href="/circulares/Programa_CAICU_2025.pdf" target="_blank" rel="noopener noreferrer">DESCARGAR PROGRAMA COMPLETO EN PDF</a>.</p>
+    <p><a href="/circulares/Programa_CAICU_2025.pdf" target="_blank" rel="noopener noreferrer">DESCARGAR PROGRAMA COMPLETO EN PDF</a></p>
   </div>
 
   <div class="box">
